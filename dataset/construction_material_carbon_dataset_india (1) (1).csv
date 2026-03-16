@@ -1,0 +1,1201 @@
+material,density_kg_m3,carbon_factor_kgco2_perkg,cost_inr,state,transport_distance_km,availability_index
+Cement OPC,1440,0.91,3460,Uttar Pradesh,865,0.33
+Ceramic Tile,2000,0.55,3103,Uttar Pradesh,1035,0.76
+Timber,600,-0.4,3462,Karnataka,1110,0.72
+Coarse Aggregate,1500,0.0025,3177,Uttar Pradesh,607,0.43
+Aluminium,2700,8.2,988,Madhya Pradesh,1052,0.96
+Float Glass,2500,1.0,4264,Gujarat,1241,0.83
+Timber,600,-0.4,2834,Gujarat,1018,0.83
+Timber,600,-0.4,2927,Uttar Pradesh,578,0.91
+Ceramic Tile,2000,0.55,4001,Uttar Pradesh,430,0.48
+Clay Brick,1800,0.22,1476,Maharashtra,1027,0.9
+Aluminium,2700,8.2,3124,Karnataka,261,0.99
+Cement OPC,1440,0.91,668,Maharashtra,808,0.79
+Coarse Aggregate,1500,0.0025,3261,Rajasthan,959,0.55
+Steel Rebar,7850,2.6,2799,Maharashtra,1067,0.47
+Timber,600,-0.4,901,Gujarat,1016,0.7
+Aluminium,2700,8.2,945,Tamil Nadu,390,0.88
+Clay Brick,1800,0.22,174,Chhattisgarh,1272,0.55
+Float Glass,2500,1.0,4792,Madhya Pradesh,1333,0.98
+Coarse Aggregate,1500,0.0025,1476,Gujarat,1257,0.34
+Clay Brick,1800,0.22,2703,Maharashtra,152,0.96
+Clay Brick,1800,0.22,401,Tamil Nadu,1473,0.64
+Concrete C30,2400,0.32,1174,Tamil Nadu,969,0.44
+Ceramic Tile,2000,0.55,3642,Uttar Pradesh,181,0.78
+Steel Rebar,7850,2.6,301,Tamil Nadu,1225,0.32
+Coarse Aggregate,1500,0.0025,566,Telangana,232,0.89
+Clay Brick,1800,0.22,4931,Chhattisgarh,1274,0.7
+Float Glass,2500,1.0,83,Telangana,993,0.48
+Clay Brick,1800,0.22,4492,Odisha,384,0.99
+Steel Rebar,7850,2.6,1194,Chhattisgarh,624,0.96
+Cement OPC,1440,0.91,4539,Rajasthan,360,0.79
+Steel Rebar,7850,2.6,521,Maharashtra,471,0.87
+Float Glass,2500,1.0,806,Maharashtra,397,0.82
+Fine Sand,1600,0.0023,4028,Uttar Pradesh,1143,0.85
+Float Glass,2500,1.0,4412,Karnataka,637,0.68
+Fine Sand,1600,0.0023,1518,Tamil Nadu,65,0.94
+Float Glass,2500,1.0,4257,Chhattisgarh,1110,0.84
+Cement OPC,1440,0.91,4591,Maharashtra,1269,0.73
+Float Glass,2500,1.0,1278,Gujarat,366,0.73
+Steel Rebar,7850,2.6,3399,Odisha,102,0.68
+Float Glass,2500,1.0,781,Tamil Nadu,1165,0.31
+Timber,600,-0.4,1592,Madhya Pradesh,165,0.68
+Clay Brick,1800,0.22,2972,Chhattisgarh,1060,0.91
+Ceramic Tile,2000,0.55,1077,Uttar Pradesh,238,0.36
+Fine Sand,1600,0.0023,4580,Maharashtra,992,0.73
+Ceramic Tile,2000,0.55,4819,Tamil Nadu,1027,0.34
+Clay Brick,1800,0.22,3522,Tamil Nadu,1265,0.84
+Aluminium,2700,8.2,571,Odisha,842,0.46
+Ceramic Tile,2000,0.55,386,Maharashtra,1128,0.79
+Cement OPC,1440,0.91,3954,Tamil Nadu,597,0.81
+Steel Rebar,7850,2.6,4946,Rajasthan,1432,0.9
+Ceramic Tile,2000,0.55,2730,Uttar Pradesh,483,0.36
+Cement OPC,1440,0.91,587,Rajasthan,388,0.86
+Cement OPC,1440,0.91,1887,Uttar Pradesh,1497,0.96
+Timber,600,-0.4,4409,Madhya Pradesh,1169,0.77
+Clay Brick,1800,0.22,2368,Chhattisgarh,392,0.85
+Ceramic Tile,2000,0.55,937,Karnataka,865,0.71
+Concrete C30,2400,0.32,2950,Odisha,900,0.71
+Fine Sand,1600,0.0023,490,Gujarat,345,0.53
+Float Glass,2500,1.0,855,Chhattisgarh,1150,0.64
+Coarse Aggregate,1500,0.0025,3781,Rajasthan,311,0.84
+Coarse Aggregate,1500,0.0025,1580,Odisha,469,0.77
+Ceramic Tile,2000,0.55,2897,Madhya Pradesh,959,0.46
+Fine Sand,1600,0.0023,1252,Tamil Nadu,286,0.46
+Concrete C30,2400,0.32,3289,Rajasthan,79,1.0
+Coarse Aggregate,1500,0.0025,1828,Karnataka,278,0.5
+Float Glass,2500,1.0,2563,Chhattisgarh,819,0.57
+Coarse Aggregate,1500,0.0025,2053,Chhattisgarh,866,0.66
+Aluminium,2700,8.2,4272,Madhya Pradesh,569,0.61
+Coarse Aggregate,1500,0.0025,4690,Madhya Pradesh,957,0.59
+Ceramic Tile,2000,0.55,2306,Tamil Nadu,720,0.99
+Ceramic Tile,2000,0.55,4146,Karnataka,1291,0.43
+Aluminium,2700,8.2,3020,Chhattisgarh,227,0.57
+Fine Sand,1600,0.0023,338,Odisha,79,0.76
+Concrete C30,2400,0.32,4375,Maharashtra,936,0.6
+Aluminium,2700,8.2,3877,Madhya Pradesh,552,0.37
+Fine Sand,1600,0.0023,139,Rajasthan,1361,0.76
+Aluminium,2700,8.2,3865,Karnataka,588,0.63
+Concrete C30,2400,0.32,2829,Rajasthan,1076,0.49
+Aluminium,2700,8.2,3781,Gujarat,49,0.57
+Timber,600,-0.4,1401,Rajasthan,438,0.95
+Timber,600,-0.4,4359,Telangana,634,0.43
+Steel Rebar,7850,2.6,2346,Chhattisgarh,696,0.87
+Float Glass,2500,1.0,2719,Tamil Nadu,1280,0.93
+Ceramic Tile,2000,0.55,2325,Madhya Pradesh,364,0.63
+Clay Brick,1800,0.22,805,Uttar Pradesh,888,0.7
+Ceramic Tile,2000,0.55,4395,Uttar Pradesh,51,0.42
+Float Glass,2500,1.0,2497,Uttar Pradesh,678,0.71
+Clay Brick,1800,0.22,4913,Uttar Pradesh,895,0.58
+Aluminium,2700,8.2,4273,Madhya Pradesh,1132,0.49
+Coarse Aggregate,1500,0.0025,2306,Chhattisgarh,785,0.94
+Float Glass,2500,1.0,3493,Karnataka,313,0.39
+Ceramic Tile,2000,0.55,881,Telangana,862,0.86
+Concrete C30,2400,0.32,2377,Odisha,783,0.62
+Cement OPC,1440,0.91,4783,Chhattisgarh,1272,0.9
+Clay Brick,1800,0.22,3605,Chhattisgarh,199,0.94
+Clay Brick,1800,0.22,1855,Uttar Pradesh,289,0.34
+Aluminium,2700,8.2,1647,Odisha,59,0.65
+Coarse Aggregate,1500,0.0025,282,Odisha,1438,0.78
+Float Glass,2500,1.0,2997,Tamil Nadu,261,0.57
+Timber,600,-0.4,1900,Rajasthan,657,0.6
+Cement OPC,1440,0.91,1870,Tamil Nadu,433,0.82
+Timber,600,-0.4,4240,Karnataka,1120,0.58
+Steel Rebar,7850,2.6,4157,Gujarat,610,0.41
+Float Glass,2500,1.0,252,Uttar Pradesh,1250,0.94
+Steel Rebar,7850,2.6,281,Tamil Nadu,561,0.93
+Clay Brick,1800,0.22,3945,Telangana,704,0.63
+Coarse Aggregate,1500,0.0025,1245,Chhattisgarh,1318,0.52
+Cement OPC,1440,0.91,273,Gujarat,268,0.58
+Timber,600,-0.4,2252,Karnataka,125,0.47
+Steel Rebar,7850,2.6,3482,Telangana,1006,0.97
+Coarse Aggregate,1500,0.0025,873,Madhya Pradesh,364,0.55
+Concrete C30,2400,0.32,1805,Rajasthan,1428,0.72
+Clay Brick,1800,0.22,300,Gujarat,459,0.32
+Fine Sand,1600,0.0023,3136,Uttar Pradesh,1447,0.81
+Float Glass,2500,1.0,4989,Tamil Nadu,1086,0.46
+Timber,600,-0.4,3341,Karnataka,240,0.65
+Cement OPC,1440,0.91,1099,Odisha,954,0.51
+Coarse Aggregate,1500,0.0025,4572,Odisha,1487,0.36
+Ceramic Tile,2000,0.55,4447,Uttar Pradesh,1340,0.31
+Float Glass,2500,1.0,4622,Madhya Pradesh,566,0.71
+Coarse Aggregate,1500,0.0025,4839,Maharashtra,499,0.93
+Cement OPC,1440,0.91,2436,Maharashtra,306,0.96
+Aluminium,2700,8.2,3325,Gujarat,987,0.78
+Aluminium,2700,8.2,766,Gujarat,1245,0.8
+Float Glass,2500,1.0,791,Telangana,315,0.32
+Concrete C30,2400,0.32,1232,Telangana,620,0.32
+Concrete C30,2400,0.32,1867,Tamil Nadu,1347,0.35
+Aluminium,2700,8.2,1023,Telangana,1277,0.4
+Float Glass,2500,1.0,406,Madhya Pradesh,54,0.87
+Steel Rebar,7850,2.6,2604,Telangana,777,0.76
+Coarse Aggregate,1500,0.0025,4982,Rajasthan,1203,0.37
+Float Glass,2500,1.0,1500,Uttar Pradesh,568,0.7
+Timber,600,-0.4,3392,Tamil Nadu,1441,0.67
+Timber,600,-0.4,2655,Uttar Pradesh,390,0.94
+Concrete C30,2400,0.32,1159,Karnataka,212,0.6
+Coarse Aggregate,1500,0.0025,1662,Tamil Nadu,1253,0.49
+Fine Sand,1600,0.0023,706,Karnataka,916,0.83
+Cement OPC,1440,0.91,4643,Odisha,665,0.53
+Concrete C30,2400,0.32,2901,Odisha,354,0.39
+Timber,600,-0.4,4566,Maharashtra,557,0.98
+Ceramic Tile,2000,0.55,2770,Madhya Pradesh,62,0.47
+Timber,600,-0.4,3027,Tamil Nadu,376,0.57
+Ceramic Tile,2000,0.55,3190,Madhya Pradesh,531,0.9
+Steel Rebar,7850,2.6,385,Rajasthan,925,0.57
+Aluminium,2700,8.2,1923,Karnataka,336,0.53
+Clay Brick,1800,0.22,2827,Telangana,56,0.38
+Coarse Aggregate,1500,0.0025,4130,Madhya Pradesh,1030,0.88
+Float Glass,2500,1.0,1794,Gujarat,740,0.75
+Clay Brick,1800,0.22,1931,Gujarat,1178,0.35
+Concrete C30,2400,0.32,3615,Maharashtra,812,0.35
+Coarse Aggregate,1500,0.0025,3907,Madhya Pradesh,1385,0.63
+Steel Rebar,7850,2.6,3487,Maharashtra,1298,0.39
+Fine Sand,1600,0.0023,4317,Karnataka,80,0.71
+Coarse Aggregate,1500,0.0025,3951,Telangana,501,0.83
+Fine Sand,1600,0.0023,1825,Chhattisgarh,1052,0.83
+Cement OPC,1440,0.91,4975,Uttar Pradesh,166,1.0
+Ceramic Tile,2000,0.55,106,Karnataka,934,0.9
+Steel Rebar,7850,2.6,1239,Chhattisgarh,814,0.73
+Cement OPC,1440,0.91,4445,Karnataka,1014,0.37
+Concrete C30,2400,0.32,2190,Maharashtra,1148,0.51
+Float Glass,2500,1.0,1469,Gujarat,1129,0.37
+Ceramic Tile,2000,0.55,2278,Maharashtra,948,0.97
+Steel Rebar,7850,2.6,3185,Uttar Pradesh,1294,0.73
+Cement OPC,1440,0.91,3659,Madhya Pradesh,682,0.47
+Aluminium,2700,8.2,3323,Rajasthan,1217,0.79
+Cement OPC,1440,0.91,1865,Chhattisgarh,1417,0.62
+Concrete C30,2400,0.32,3732,Gujarat,1440,0.98
+Cement OPC,1440,0.91,3053,Rajasthan,425,0.85
+Float Glass,2500,1.0,3240,Karnataka,841,0.6
+Steel Rebar,7850,2.6,1085,Madhya Pradesh,1296,0.49
+Cement OPC,1440,0.91,2502,Rajasthan,1049,0.31
+Coarse Aggregate,1500,0.0025,586,Odisha,1111,0.63
+Aluminium,2700,8.2,1500,Tamil Nadu,31,0.49
+Concrete C30,2400,0.32,3817,Karnataka,147,0.96
+Ceramic Tile,2000,0.55,4062,Rajasthan,722,0.93
+Concrete C30,2400,0.32,3603,Telangana,369,0.97
+Timber,600,-0.4,3912,Chhattisgarh,1297,0.53
+Concrete C30,2400,0.32,4453,Odisha,1479,0.87
+Fine Sand,1600,0.0023,3811,Tamil Nadu,626,0.81
+Ceramic Tile,2000,0.55,3785,Uttar Pradesh,948,0.77
+Aluminium,2700,8.2,455,Chhattisgarh,1480,0.99
+Aluminium,2700,8.2,1080,Uttar Pradesh,37,0.74
+Cement OPC,1440,0.91,4084,Karnataka,724,0.34
+Ceramic Tile,2000,0.55,3614,Karnataka,878,0.39
+Concrete C30,2400,0.32,4744,Maharashtra,175,0.72
+Concrete C30,2400,0.32,4787,Gujarat,812,0.63
+Clay Brick,1800,0.22,2847,Rajasthan,163,0.56
+Float Glass,2500,1.0,3184,Tamil Nadu,654,0.48
+Ceramic Tile,2000,0.55,3346,Odisha,735,0.89
+Clay Brick,1800,0.22,2904,Tamil Nadu,1180,0.78
+Fine Sand,1600,0.0023,1709,Rajasthan,567,0.33
+Fine Sand,1600,0.0023,64,Tamil Nadu,310,0.7
+Ceramic Tile,2000,0.55,2810,Karnataka,1152,0.82
+Clay Brick,1800,0.22,4536,Chhattisgarh,1466,0.35
+Fine Sand,1600,0.0023,3395,Gujarat,638,0.77
+Aluminium,2700,8.2,1377,Rajasthan,517,0.57
+Aluminium,2700,8.2,4556,Chhattisgarh,723,0.61
+Clay Brick,1800,0.22,3282,Tamil Nadu,227,0.55
+Ceramic Tile,2000,0.55,4000,Odisha,473,0.58
+Aluminium,2700,8.2,2861,Chhattisgarh,1495,0.82
+Cement OPC,1440,0.91,1117,Chhattisgarh,716,0.71
+Coarse Aggregate,1500,0.0025,4075,Tamil Nadu,1240,0.58
+Fine Sand,1600,0.0023,1025,Odisha,604,0.7
+Coarse Aggregate,1500,0.0025,1492,Rajasthan,909,0.93
+Coarse Aggregate,1500,0.0025,4535,Karnataka,907,0.86
+Float Glass,2500,1.0,2873,Uttar Pradesh,31,0.91
+Float Glass,2500,1.0,1621,Gujarat,22,0.63
+Float Glass,2500,1.0,4220,Karnataka,443,0.8
+Timber,600,-0.4,2379,Odisha,1439,0.84
+Float Glass,2500,1.0,2505,Gujarat,1419,0.31
+Clay Brick,1800,0.22,2707,Uttar Pradesh,1395,0.37
+Timber,600,-0.4,3773,Tamil Nadu,117,0.34
+Coarse Aggregate,1500,0.0025,2086,Telangana,1128,0.65
+Coarse Aggregate,1500,0.0025,264,Madhya Pradesh,1456,0.33
+Cement OPC,1440,0.91,2569,Chhattisgarh,850,0.64
+Concrete C30,2400,0.32,1725,Chhattisgarh,1074,0.56
+Ceramic Tile,2000,0.55,1825,Karnataka,399,0.73
+Cement OPC,1440,0.91,325,Telangana,903,0.84
+Float Glass,2500,1.0,4851,Tamil Nadu,1280,0.43
+Coarse Aggregate,1500,0.0025,4628,Odisha,678,0.91
+Concrete C30,2400,0.32,1684,Karnataka,126,0.72
+Cement OPC,1440,0.91,4510,Tamil Nadu,702,0.84
+Timber,600,-0.4,87,Telangana,1224,0.88
+Concrete C30,2400,0.32,1465,Tamil Nadu,497,0.43
+Aluminium,2700,8.2,588,Karnataka,492,0.56
+Ceramic Tile,2000,0.55,2690,Chhattisgarh,1034,0.53
+Clay Brick,1800,0.22,205,Tamil Nadu,247,0.73
+Timber,600,-0.4,1762,Karnataka,740,0.84
+Coarse Aggregate,1500,0.0025,4168,Maharashtra,993,0.36
+Fine Sand,1600,0.0023,2258,Rajasthan,648,0.3
+Clay Brick,1800,0.22,3121,Rajasthan,861,0.35
+Timber,600,-0.4,398,Madhya Pradesh,186,0.44
+Coarse Aggregate,1500,0.0025,3004,Telangana,997,0.37
+Aluminium,2700,8.2,3180,Madhya Pradesh,837,0.54
+Timber,600,-0.4,2543,Chhattisgarh,709,0.95
+Cement OPC,1440,0.91,1255,Karnataka,1106,0.53
+Cement OPC,1440,0.91,258,Telangana,1449,0.87
+Concrete C30,2400,0.32,3148,Maharashtra,700,0.46
+Fine Sand,1600,0.0023,3886,Madhya Pradesh,71,0.47
+Float Glass,2500,1.0,4340,Karnataka,541,0.53
+Timber,600,-0.4,1003,Gujarat,571,0.39
+Float Glass,2500,1.0,1119,Chhattisgarh,335,0.33
+Timber,600,-0.4,4788,Odisha,64,0.78
+Cement OPC,1440,0.91,2517,Telangana,177,0.96
+Steel Rebar,7850,2.6,4781,Maharashtra,877,0.42
+Coarse Aggregate,1500,0.0025,2826,Uttar Pradesh,38,0.68
+Concrete C30,2400,0.32,3693,Uttar Pradesh,532,0.67
+Float Glass,2500,1.0,4040,Uttar Pradesh,300,0.5
+Clay Brick,1800,0.22,157,Gujarat,1076,1.0
+Float Glass,2500,1.0,1585,Gujarat,92,0.78
+Ceramic Tile,2000,0.55,1106,Chhattisgarh,572,0.67
+Aluminium,2700,8.2,3143,Maharashtra,467,0.37
+Float Glass,2500,1.0,835,Chhattisgarh,591,0.57
+Concrete C30,2400,0.32,2291,Odisha,1401,0.83
+Coarse Aggregate,1500,0.0025,1734,Odisha,219,0.84
+Timber,600,-0.4,2529,Odisha,315,0.95
+Coarse Aggregate,1500,0.0025,4751,Karnataka,1150,0.69
+Cement OPC,1440,0.91,835,Madhya Pradesh,1192,0.41
+Ceramic Tile,2000,0.55,4567,Rajasthan,993,0.74
+Coarse Aggregate,1500,0.0025,4594,Gujarat,1281,0.55
+Timber,600,-0.4,516,Chhattisgarh,1245,0.57
+Coarse Aggregate,1500,0.0025,107,Madhya Pradesh,134,0.45
+Ceramic Tile,2000,0.55,4029,Madhya Pradesh,776,0.44
+Aluminium,2700,8.2,1105,Karnataka,262,0.99
+Ceramic Tile,2000,0.55,4699,Maharashtra,518,0.75
+Aluminium,2700,8.2,3593,Rajasthan,516,0.31
+Steel Rebar,7850,2.6,3312,Madhya Pradesh,917,0.57
+Clay Brick,1800,0.22,4683,Madhya Pradesh,334,0.73
+Fine Sand,1600,0.0023,2395,Rajasthan,724,0.74
+Aluminium,2700,8.2,1170,Rajasthan,1070,0.88
+Concrete C30,2400,0.32,1859,Telangana,584,0.93
+Float Glass,2500,1.0,2904,Telangana,787,1.0
+Cement OPC,1440,0.91,2537,Chhattisgarh,1248,0.44
+Coarse Aggregate,1500,0.0025,529,Telangana,629,0.35
+Cement OPC,1440,0.91,4947,Karnataka,1074,0.76
+Cement OPC,1440,0.91,1460,Tamil Nadu,613,0.35
+Timber,600,-0.4,3055,Karnataka,1165,0.6
+Cement OPC,1440,0.91,4768,Karnataka,559,0.87
+Coarse Aggregate,1500,0.0025,3518,Telangana,1426,0.34
+Clay Brick,1800,0.22,292,Chhattisgarh,1419,0.43
+Aluminium,2700,8.2,3990,Madhya Pradesh,900,0.71
+Coarse Aggregate,1500,0.0025,2136,Maharashtra,70,0.91
+Aluminium,2700,8.2,3666,Telangana,402,0.45
+Clay Brick,1800,0.22,1976,Rajasthan,1198,0.71
+Steel Rebar,7850,2.6,1755,Uttar Pradesh,1160,0.91
+Cement OPC,1440,0.91,637,Karnataka,1249,0.75
+Steel Rebar,7850,2.6,2026,Gujarat,1259,0.6
+Clay Brick,1800,0.22,1266,Tamil Nadu,862,0.98
+Coarse Aggregate,1500,0.0025,4763,Tamil Nadu,326,0.79
+Cement OPC,1440,0.91,3540,Odisha,516,0.77
+Cement OPC,1440,0.91,1804,Uttar Pradesh,503,0.77
+Aluminium,2700,8.2,3591,Tamil Nadu,197,0.85
+Float Glass,2500,1.0,1147,Chhattisgarh,1472,0.95
+Coarse Aggregate,1500,0.0025,3584,Maharashtra,1163,0.97
+Float Glass,2500,1.0,4963,Odisha,615,0.85
+Timber,600,-0.4,1177,Uttar Pradesh,881,1.0
+Coarse Aggregate,1500,0.0025,1788,Maharashtra,689,0.41
+Coarse Aggregate,1500,0.0025,1314,Gujarat,603,0.53
+Steel Rebar,7850,2.6,2025,Karnataka,1384,0.69
+Coarse Aggregate,1500,0.0025,2872,Odisha,991,0.78
+Steel Rebar,7850,2.6,81,Tamil Nadu,760,1.0
+Ceramic Tile,2000,0.55,2461,Telangana,629,0.34
+Ceramic Tile,2000,0.55,1221,Karnataka,1407,0.88
+Float Glass,2500,1.0,4610,Telangana,478,0.59
+Float Glass,2500,1.0,3158,Telangana,430,0.87
+Fine Sand,1600,0.0023,3829,Tamil Nadu,188,0.51
+Fine Sand,1600,0.0023,4240,Uttar Pradesh,854,0.65
+Coarse Aggregate,1500,0.0025,3267,Telangana,712,0.49
+Concrete C30,2400,0.32,429,Odisha,1185,0.46
+Ceramic Tile,2000,0.55,365,Tamil Nadu,116,0.34
+Float Glass,2500,1.0,824,Odisha,990,0.56
+Steel Rebar,7850,2.6,800,Maharashtra,827,0.52
+Aluminium,2700,8.2,4269,Tamil Nadu,709,0.35
+Cement OPC,1440,0.91,1707,Chhattisgarh,1182,0.39
+Fine Sand,1600,0.0023,2745,Maharashtra,828,0.95
+Concrete C30,2400,0.32,3806,Chhattisgarh,294,0.87
+Float Glass,2500,1.0,219,Chhattisgarh,1331,0.92
+Timber,600,-0.4,2843,Odisha,505,0.88
+Aluminium,2700,8.2,3114,Gujarat,924,0.52
+Ceramic Tile,2000,0.55,1169,Telangana,535,0.65
+Aluminium,2700,8.2,1382,Telangana,1486,0.97
+Fine Sand,1600,0.0023,4965,Rajasthan,1015,0.66
+Fine Sand,1600,0.0023,4555,Chhattisgarh,53,0.45
+Fine Sand,1600,0.0023,1145,Telangana,72,0.79
+Concrete C30,2400,0.32,952,Tamil Nadu,1276,0.76
+Ceramic Tile,2000,0.55,3602,Karnataka,148,0.38
+Ceramic Tile,2000,0.55,624,Rajasthan,67,0.96
+Cement OPC,1440,0.91,3295,Gujarat,368,0.81
+Ceramic Tile,2000,0.55,448,Chhattisgarh,1097,0.85
+Fine Sand,1600,0.0023,4374,Karnataka,68,0.49
+Ceramic Tile,2000,0.55,2231,Karnataka,255,0.48
+Steel Rebar,7850,2.6,3099,Uttar Pradesh,199,0.63
+Float Glass,2500,1.0,1692,Madhya Pradesh,895,0.88
+Steel Rebar,7850,2.6,3080,Gujarat,436,0.3
+Concrete C30,2400,0.32,2889,Maharashtra,681,0.67
+Coarse Aggregate,1500,0.0025,2451,Rajasthan,665,0.6
+Clay Brick,1800,0.22,2497,Maharashtra,764,0.8
+Concrete C30,2400,0.32,205,Madhya Pradesh,377,0.63
+Ceramic Tile,2000,0.55,2387,Karnataka,525,0.84
+Fine Sand,1600,0.0023,1850,Madhya Pradesh,728,0.99
+Aluminium,2700,8.2,2751,Chhattisgarh,180,0.73
+Float Glass,2500,1.0,3740,Rajasthan,62,0.48
+Aluminium,2700,8.2,2557,Gujarat,1285,0.46
+Clay Brick,1800,0.22,3410,Uttar Pradesh,399,0.9
+Fine Sand,1600,0.0023,4451,Telangana,665,0.99
+Timber,600,-0.4,3033,Madhya Pradesh,763,0.68
+Float Glass,2500,1.0,3352,Maharashtra,1332,0.59
+Coarse Aggregate,1500,0.0025,3243,Telangana,230,0.79
+Float Glass,2500,1.0,3895,Gujarat,356,0.73
+Coarse Aggregate,1500,0.0025,1784,Odisha,644,0.4
+Cement OPC,1440,0.91,658,Karnataka,789,0.81
+Cement OPC,1440,0.91,1612,Odisha,1154,0.65
+Cement OPC,1440,0.91,1427,Rajasthan,1024,0.87
+Concrete C30,2400,0.32,785,Odisha,774,0.82
+Timber,600,-0.4,2772,Karnataka,1444,0.36
+Aluminium,2700,8.2,1378,Karnataka,601,0.81
+Coarse Aggregate,1500,0.0025,93,Odisha,300,0.65
+Aluminium,2700,8.2,1353,Chhattisgarh,597,0.86
+Timber,600,-0.4,2961,Maharashtra,351,0.58
+Fine Sand,1600,0.0023,4290,Chhattisgarh,1083,0.94
+Clay Brick,1800,0.22,3184,Gujarat,302,0.58
+Steel Rebar,7850,2.6,4913,Uttar Pradesh,638,0.63
+Coarse Aggregate,1500,0.0025,432,Telangana,329,0.44
+Clay Brick,1800,0.22,4324,Rajasthan,1361,0.68
+Float Glass,2500,1.0,1225,Karnataka,658,0.43
+Ceramic Tile,2000,0.55,4916,Madhya Pradesh,389,0.68
+Timber,600,-0.4,1313,Maharashtra,361,0.62
+Aluminium,2700,8.2,2493,Odisha,816,0.66
+Timber,600,-0.4,2688,Karnataka,1317,0.7
+Cement OPC,1440,0.91,801,Rajasthan,842,0.47
+Clay Brick,1800,0.22,3347,Gujarat,1498,0.87
+Cement OPC,1440,0.91,2708,Uttar Pradesh,970,0.94
+Steel Rebar,7850,2.6,2741,Uttar Pradesh,794,0.82
+Coarse Aggregate,1500,0.0025,3104,Gujarat,599,0.51
+Aluminium,2700,8.2,289,Uttar Pradesh,1185,0.54
+Concrete C30,2400,0.32,651,Maharashtra,914,0.95
+Clay Brick,1800,0.22,3912,Odisha,1200,0.51
+Ceramic Tile,2000,0.55,1521,Tamil Nadu,961,0.48
+Coarse Aggregate,1500,0.0025,3167,Karnataka,1190,0.72
+Clay Brick,1800,0.22,4039,Karnataka,761,0.52
+Aluminium,2700,8.2,1736,Karnataka,416,0.85
+Aluminium,2700,8.2,2356,Madhya Pradesh,215,0.32
+Float Glass,2500,1.0,466,Madhya Pradesh,1023,0.41
+Timber,600,-0.4,1008,Tamil Nadu,364,0.98
+Float Glass,2500,1.0,2599,Karnataka,1376,0.82
+Aluminium,2700,8.2,3456,Rajasthan,918,0.59
+Timber,600,-0.4,1619,Uttar Pradesh,248,0.64
+Cement OPC,1440,0.91,2267,Rajasthan,450,0.94
+Clay Brick,1800,0.22,1612,Uttar Pradesh,333,0.4
+Timber,600,-0.4,1174,Rajasthan,1438,0.56
+Float Glass,2500,1.0,3336,Rajasthan,476,0.46
+Float Glass,2500,1.0,824,Gujarat,778,0.97
+Ceramic Tile,2000,0.55,4772,Rajasthan,832,0.81
+Fine Sand,1600,0.0023,1318,Rajasthan,961,1.0
+Aluminium,2700,8.2,258,Odisha,524,0.55
+Steel Rebar,7850,2.6,3690,Tamil Nadu,27,0.57
+Steel Rebar,7850,2.6,2809,Karnataka,196,0.55
+Clay Brick,1800,0.22,884,Madhya Pradesh,770,0.86
+Clay Brick,1800,0.22,2823,Uttar Pradesh,414,0.99
+Aluminium,2700,8.2,784,Uttar Pradesh,1079,0.96
+Timber,600,-0.4,4606,Madhya Pradesh,123,0.96
+Clay Brick,1800,0.22,2201,Chhattisgarh,645,0.64
+Coarse Aggregate,1500,0.0025,452,Tamil Nadu,1497,0.43
+Ceramic Tile,2000,0.55,2459,Karnataka,380,0.57
+Clay Brick,1800,0.22,3508,Gujarat,461,0.7
+Clay Brick,1800,0.22,2318,Chhattisgarh,927,0.84
+Ceramic Tile,2000,0.55,4931,Chhattisgarh,1003,0.92
+Clay Brick,1800,0.22,2369,Maharashtra,684,0.93
+Coarse Aggregate,1500,0.0025,4895,Odisha,586,0.8
+Clay Brick,1800,0.22,1360,Uttar Pradesh,275,0.43
+Float Glass,2500,1.0,4436,Madhya Pradesh,448,0.39
+Steel Rebar,7850,2.6,4849,Chhattisgarh,1289,0.88
+Steel Rebar,7850,2.6,488,Rajasthan,520,0.93
+Aluminium,2700,8.2,3219,Telangana,971,0.55
+Ceramic Tile,2000,0.55,4570,Gujarat,152,0.34
+Fine Sand,1600,0.0023,309,Madhya Pradesh,644,0.97
+Concrete C30,2400,0.32,4276,Odisha,126,0.51
+Timber,600,-0.4,4318,Rajasthan,1234,0.71
+Float Glass,2500,1.0,4801,Chhattisgarh,499,0.89
+Fine Sand,1600,0.0023,4116,Maharashtra,935,0.44
+Fine Sand,1600,0.0023,65,Rajasthan,714,1.0
+Float Glass,2500,1.0,3074,Maharashtra,1013,0.54
+Cement OPC,1440,0.91,2198,Gujarat,100,0.64
+Concrete C30,2400,0.32,1411,Chhattisgarh,240,0.48
+Timber,600,-0.4,4526,Karnataka,590,0.46
+Fine Sand,1600,0.0023,657,Chhattisgarh,1210,0.42
+Ceramic Tile,2000,0.55,481,Maharashtra,362,0.42
+Ceramic Tile,2000,0.55,2788,Madhya Pradesh,1453,0.56
+Concrete C30,2400,0.32,2316,Rajasthan,364,0.79
+Aluminium,2700,8.2,2304,Karnataka,211,0.96
+Steel Rebar,7850,2.6,1020,Gujarat,657,0.83
+Concrete C30,2400,0.32,1087,Maharashtra,27,0.55
+Cement OPC,1440,0.91,3037,Karnataka,156,0.72
+Aluminium,2700,8.2,784,Maharashtra,1215,0.98
+Concrete C30,2400,0.32,1651,Chhattisgarh,1113,0.97
+Timber,600,-0.4,2096,Telangana,991,0.48
+Fine Sand,1600,0.0023,2308,Tamil Nadu,870,0.33
+Ceramic Tile,2000,0.55,4033,Chhattisgarh,142,0.81
+Float Glass,2500,1.0,4414,Odisha,161,0.55
+Cement OPC,1440,0.91,988,Tamil Nadu,1479,0.84
+Fine Sand,1600,0.0023,2040,Uttar Pradesh,162,0.85
+Fine Sand,1600,0.0023,270,Maharashtra,1403,0.75
+Fine Sand,1600,0.0023,1156,Gujarat,735,0.36
+Cement OPC,1440,0.91,1445,Odisha,1153,0.55
+Fine Sand,1600,0.0023,1733,Madhya Pradesh,250,0.75
+Fine Sand,1600,0.0023,1878,Uttar Pradesh,195,0.56
+Ceramic Tile,2000,0.55,737,Tamil Nadu,596,0.84
+Fine Sand,1600,0.0023,3970,Uttar Pradesh,399,0.38
+Aluminium,2700,8.2,2983,Chhattisgarh,764,0.69
+Timber,600,-0.4,1554,Telangana,1082,0.68
+Cement OPC,1440,0.91,2555,Rajasthan,1007,0.76
+Cement OPC,1440,0.91,1870,Chhattisgarh,1383,0.33
+Float Glass,2500,1.0,2279,Tamil Nadu,151,0.78
+Coarse Aggregate,1500,0.0025,4676,Chhattisgarh,460,0.58
+Timber,600,-0.4,4290,Tamil Nadu,1477,0.58
+Cement OPC,1440,0.91,3439,Madhya Pradesh,426,0.9
+Aluminium,2700,8.2,4824,Tamil Nadu,55,0.32
+Ceramic Tile,2000,0.55,283,Chhattisgarh,1041,0.65
+Coarse Aggregate,1500,0.0025,4301,Rajasthan,471,0.79
+Fine Sand,1600,0.0023,1635,Gujarat,272,0.97
+Ceramic Tile,2000,0.55,2609,Odisha,1493,0.73
+Coarse Aggregate,1500,0.0025,2668,Gujarat,374,0.62
+Ceramic Tile,2000,0.55,4645,Tamil Nadu,514,0.38
+Float Glass,2500,1.0,4248,Uttar Pradesh,564,0.81
+Clay Brick,1800,0.22,4540,Rajasthan,601,0.48
+Cement OPC,1440,0.91,1682,Uttar Pradesh,449,0.94
+Ceramic Tile,2000,0.55,2415,Rajasthan,1407,0.95
+Steel Rebar,7850,2.6,2240,Madhya Pradesh,1071,0.59
+Timber,600,-0.4,4446,Rajasthan,1030,0.77
+Clay Brick,1800,0.22,4002,Tamil Nadu,387,0.55
+Ceramic Tile,2000,0.55,682,Odisha,806,1.0
+Cement OPC,1440,0.91,3472,Maharashtra,1029,0.32
+Concrete C30,2400,0.32,50,Odisha,653,0.95
+Clay Brick,1800,0.22,1045,Tamil Nadu,890,0.52
+Clay Brick,1800,0.22,3187,Chhattisgarh,662,0.31
+Timber,600,-0.4,385,Karnataka,1070,1.0
+Coarse Aggregate,1500,0.0025,4336,Gujarat,129,0.93
+Float Glass,2500,1.0,4362,Tamil Nadu,1479,0.68
+Clay Brick,1800,0.22,3989,Karnataka,1118,0.65
+Cement OPC,1440,0.91,3448,Tamil Nadu,1171,0.5
+Clay Brick,1800,0.22,4450,Chhattisgarh,115,0.6
+Timber,600,-0.4,4645,Chhattisgarh,1286,0.73
+Aluminium,2700,8.2,2455,Odisha,1292,0.58
+Ceramic Tile,2000,0.55,3960,Telangana,739,0.64
+Aluminium,2700,8.2,3784,Telangana,396,0.7
+Steel Rebar,7850,2.6,3167,Odisha,1491,0.34
+Fine Sand,1600,0.0023,1185,Telangana,132,0.99
+Coarse Aggregate,1500,0.0025,4873,Rajasthan,663,0.35
+Cement OPC,1440,0.91,4815,Chhattisgarh,1128,0.62
+Fine Sand,1600,0.0023,1937,Karnataka,1419,0.86
+Coarse Aggregate,1500,0.0025,975,Uttar Pradesh,1219,0.85
+Coarse Aggregate,1500,0.0025,4235,Uttar Pradesh,1030,0.99
+Steel Rebar,7850,2.6,3643,Rajasthan,920,0.77
+Coarse Aggregate,1500,0.0025,2245,Telangana,214,0.66
+Coarse Aggregate,1500,0.0025,1324,Karnataka,1478,0.68
+Cement OPC,1440,0.91,2380,Madhya Pradesh,457,0.72
+Steel Rebar,7850,2.6,422,Gujarat,1009,0.76
+Cement OPC,1440,0.91,738,Rajasthan,838,0.67
+Clay Brick,1800,0.22,1472,Tamil Nadu,1079,0.32
+Coarse Aggregate,1500,0.0025,2395,Odisha,97,0.84
+Steel Rebar,7850,2.6,1403,Chhattisgarh,720,0.63
+Timber,600,-0.4,3463,Madhya Pradesh,816,0.87
+Concrete C30,2400,0.32,613,Odisha,1476,0.99
+Clay Brick,1800,0.22,1860,Madhya Pradesh,876,0.37
+Coarse Aggregate,1500,0.0025,1535,Madhya Pradesh,1266,0.52
+Coarse Aggregate,1500,0.0025,4967,Telangana,579,0.72
+Aluminium,2700,8.2,1945,Rajasthan,458,0.94
+Clay Brick,1800,0.22,1398,Rajasthan,52,0.32
+Clay Brick,1800,0.22,4270,Rajasthan,34,0.32
+Ceramic Tile,2000,0.55,1074,Uttar Pradesh,1163,0.94
+Float Glass,2500,1.0,3482,Uttar Pradesh,202,0.87
+Steel Rebar,7850,2.6,1595,Madhya Pradesh,685,0.98
+Float Glass,2500,1.0,1684,Uttar Pradesh,1483,0.67
+Steel Rebar,7850,2.6,2106,Karnataka,424,0.54
+Fine Sand,1600,0.0023,1214,Maharashtra,875,0.38
+Steel Rebar,7850,2.6,4380,Chhattisgarh,1172,0.93
+Clay Brick,1800,0.22,1295,Telangana,111,0.93
+Steel Rebar,7850,2.6,3961,Rajasthan,155,0.32
+Fine Sand,1600,0.0023,807,Madhya Pradesh,324,0.87
+Float Glass,2500,1.0,3270,Maharashtra,382,0.79
+Float Glass,2500,1.0,3529,Tamil Nadu,1280,0.78
+Aluminium,2700,8.2,3303,Gujarat,1354,0.54
+Aluminium,2700,8.2,4134,Maharashtra,1440,0.48
+Concrete C30,2400,0.32,294,Rajasthan,376,0.45
+Concrete C30,2400,0.32,3741,Karnataka,1456,0.41
+Ceramic Tile,2000,0.55,3567,Maharashtra,241,0.36
+Cement OPC,1440,0.91,2784,Chhattisgarh,902,0.6
+Aluminium,2700,8.2,4113,Rajasthan,958,0.68
+Aluminium,2700,8.2,1082,Gujarat,1219,0.4
+Concrete C30,2400,0.32,1131,Tamil Nadu,159,0.36
+Concrete C30,2400,0.32,1060,Gujarat,90,0.72
+Float Glass,2500,1.0,4196,Rajasthan,342,0.81
+Cement OPC,1440,0.91,3196,Karnataka,1481,0.63
+Concrete C30,2400,0.32,4573,Telangana,737,0.65
+Coarse Aggregate,1500,0.0025,561,Maharashtra,520,0.86
+Steel Rebar,7850,2.6,890,Telangana,540,0.87
+Concrete C30,2400,0.32,4621,Uttar Pradesh,1349,0.56
+Cement OPC,1440,0.91,780,Odisha,1205,0.57
+Steel Rebar,7850,2.6,1798,Madhya Pradesh,951,0.73
+Fine Sand,1600,0.0023,2194,Uttar Pradesh,1311,0.31
+Cement OPC,1440,0.91,928,Karnataka,512,0.5
+Timber,600,-0.4,104,Rajasthan,893,0.64
+Fine Sand,1600,0.0023,4203,Uttar Pradesh,124,0.69
+Ceramic Tile,2000,0.55,4340,Odisha,588,0.47
+Cement OPC,1440,0.91,2558,Karnataka,40,0.85
+Steel Rebar,7850,2.6,4271,Telangana,1190,0.64
+Fine Sand,1600,0.0023,4508,Chhattisgarh,940,0.88
+Fine Sand,1600,0.0023,2173,Maharashtra,85,0.75
+Clay Brick,1800,0.22,2756,Madhya Pradesh,1446,0.49
+Cement OPC,1440,0.91,3555,Uttar Pradesh,744,0.87
+Steel Rebar,7850,2.6,1084,Telangana,266,0.76
+Aluminium,2700,8.2,667,Tamil Nadu,362,0.94
+Steel Rebar,7850,2.6,1122,Tamil Nadu,1406,0.41
+Fine Sand,1600,0.0023,841,Maharashtra,1249,0.92
+Coarse Aggregate,1500,0.0025,1713,Madhya Pradesh,802,0.81
+Timber,600,-0.4,4361,Gujarat,313,0.69
+Aluminium,2700,8.2,4230,Uttar Pradesh,685,0.62
+Float Glass,2500,1.0,3006,Maharashtra,1313,0.97
+Concrete C30,2400,0.32,3232,Chhattisgarh,279,0.77
+Steel Rebar,7850,2.6,182,Karnataka,324,0.78
+Coarse Aggregate,1500,0.0025,2055,Rajasthan,301,0.54
+Steel Rebar,7850,2.6,4122,Chhattisgarh,107,0.34
+Clay Brick,1800,0.22,4156,Karnataka,794,0.3
+Ceramic Tile,2000,0.55,608,Rajasthan,837,0.97
+Ceramic Tile,2000,0.55,3211,Uttar Pradesh,242,0.34
+Ceramic Tile,2000,0.55,2356,Chhattisgarh,823,0.36
+Ceramic Tile,2000,0.55,4373,Rajasthan,563,0.82
+Clay Brick,1800,0.22,103,Odisha,817,0.92
+Fine Sand,1600,0.0023,2243,Tamil Nadu,1168,0.34
+Steel Rebar,7850,2.6,4742,Rajasthan,1077,0.85
+Aluminium,2700,8.2,1020,Telangana,331,0.69
+Concrete C30,2400,0.32,1082,Tamil Nadu,846,0.98
+Concrete C30,2400,0.32,2458,Rajasthan,48,0.82
+Cement OPC,1440,0.91,3820,Odisha,114,0.39
+Float Glass,2500,1.0,4013,Karnataka,1424,0.94
+Float Glass,2500,1.0,3900,Chhattisgarh,1064,0.37
+Clay Brick,1800,0.22,74,Tamil Nadu,1394,0.42
+Float Glass,2500,1.0,1356,Tamil Nadu,347,0.84
+Float Glass,2500,1.0,2839,Maharashtra,1449,0.68
+Steel Rebar,7850,2.6,4674,Gujarat,1184,0.82
+Ceramic Tile,2000,0.55,1777,Tamil Nadu,818,0.53
+Cement OPC,1440,0.91,1182,Telangana,1372,0.58
+Fine Sand,1600,0.0023,4410,Maharashtra,533,0.89
+Float Glass,2500,1.0,4832,Uttar Pradesh,552,0.55
+Cement OPC,1440,0.91,1161,Tamil Nadu,940,0.51
+Float Glass,2500,1.0,956,Maharashtra,166,0.61
+Ceramic Tile,2000,0.55,3996,Gujarat,851,0.84
+Fine Sand,1600,0.0023,975,Chhattisgarh,1420,0.95
+Coarse Aggregate,1500,0.0025,3324,Rajasthan,1489,0.63
+Clay Brick,1800,0.22,4239,Uttar Pradesh,128,0.51
+Ceramic Tile,2000,0.55,3439,Odisha,1373,0.58
+Coarse Aggregate,1500,0.0025,2832,Rajasthan,365,0.71
+Ceramic Tile,2000,0.55,846,Maharashtra,162,0.69
+Clay Brick,1800,0.22,2408,Maharashtra,1271,0.41
+Steel Rebar,7850,2.6,3322,Maharashtra,1355,0.34
+Timber,600,-0.4,2664,Madhya Pradesh,244,0.97
+Clay Brick,1800,0.22,2691,Uttar Pradesh,492,0.55
+Steel Rebar,7850,2.6,1249,Uttar Pradesh,1419,0.45
+Ceramic Tile,2000,0.55,464,Gujarat,1323,0.5
+Fine Sand,1600,0.0023,2050,Karnataka,1182,0.67
+Concrete C30,2400,0.32,623,Odisha,624,0.61
+Ceramic Tile,2000,0.55,1693,Tamil Nadu,1118,0.6
+Ceramic Tile,2000,0.55,1058,Odisha,280,0.91
+Coarse Aggregate,1500,0.0025,2767,Telangana,1017,0.33
+Concrete C30,2400,0.32,4270,Rajasthan,1271,0.69
+Float Glass,2500,1.0,322,Gujarat,316,0.62
+Clay Brick,1800,0.22,1631,Chhattisgarh,1113,0.65
+Concrete C30,2400,0.32,3588,Telangana,502,0.78
+Fine Sand,1600,0.0023,1163,Karnataka,1168,0.3
+Float Glass,2500,1.0,4946,Telangana,1499,0.69
+Coarse Aggregate,1500,0.0025,1997,Uttar Pradesh,1120,0.34
+Fine Sand,1600,0.0023,2020,Uttar Pradesh,60,0.43
+Fine Sand,1600,0.0023,4042,Karnataka,172,0.9
+Concrete C30,2400,0.32,2660,Rajasthan,550,0.45
+Aluminium,2700,8.2,3179,Karnataka,1122,0.83
+Ceramic Tile,2000,0.55,4757,Telangana,334,0.91
+Aluminium,2700,8.2,3223,Chhattisgarh,895,0.63
+Clay Brick,1800,0.22,4122,Tamil Nadu,507,0.44
+Fine Sand,1600,0.0023,66,Gujarat,520,0.85
+Aluminium,2700,8.2,2103,Maharashtra,449,0.36
+Concrete C30,2400,0.32,3006,Karnataka,694,0.86
+Fine Sand,1600,0.0023,3648,Odisha,172,0.87
+Aluminium,2700,8.2,2511,Chhattisgarh,1183,0.58
+Ceramic Tile,2000,0.55,1582,Telangana,928,0.53
+Concrete C30,2400,0.32,1222,Rajasthan,291,0.53
+Steel Rebar,7850,2.6,4904,Madhya Pradesh,1333,0.79
+Clay Brick,1800,0.22,703,Gujarat,153,0.55
+Clay Brick,1800,0.22,3127,Telangana,606,0.68
+Steel Rebar,7850,2.6,2563,Karnataka,987,0.73
+Aluminium,2700,8.2,5000,Chhattisgarh,991,0.76
+Timber,600,-0.4,2525,Karnataka,1157,0.78
+Timber,600,-0.4,1328,Telangana,508,0.65
+Float Glass,2500,1.0,3242,Odisha,604,0.78
+Ceramic Tile,2000,0.55,4087,Karnataka,410,0.6
+Cement OPC,1440,0.91,4026,Odisha,1290,0.57
+Float Glass,2500,1.0,3397,Madhya Pradesh,207,0.46
+Clay Brick,1800,0.22,3766,Chhattisgarh,1046,0.7
+Timber,600,-0.4,4267,Karnataka,1373,0.75
+Clay Brick,1800,0.22,1703,Uttar Pradesh,1071,0.9
+Fine Sand,1600,0.0023,460,Telangana,517,0.8
+Clay Brick,1800,0.22,3953,Karnataka,616,0.76
+Coarse Aggregate,1500,0.0025,2606,Rajasthan,440,0.53
+Ceramic Tile,2000,0.55,1938,Madhya Pradesh,1482,0.39
+Ceramic Tile,2000,0.55,4704,Gujarat,1285,0.87
+Timber,600,-0.4,554,Tamil Nadu,1187,0.82
+Steel Rebar,7850,2.6,4574,Chhattisgarh,682,0.95
+Fine Sand,1600,0.0023,2688,Madhya Pradesh,652,0.78
+Fine Sand,1600,0.0023,4717,Chhattisgarh,294,0.42
+Float Glass,2500,1.0,2413,Maharashtra,494,0.55
+Fine Sand,1600,0.0023,1701,Karnataka,1151,0.84
+Aluminium,2700,8.2,1312,Rajasthan,100,0.66
+Timber,600,-0.4,2138,Chhattisgarh,513,0.6
+Timber,600,-0.4,1629,Chhattisgarh,629,0.83
+Steel Rebar,7850,2.6,1757,Madhya Pradesh,1471,0.75
+Aluminium,2700,8.2,4774,Gujarat,72,0.67
+Steel Rebar,7850,2.6,4941,Gujarat,364,0.67
+Cement OPC,1440,0.91,2063,Maharashtra,1246,0.48
+Coarse Aggregate,1500,0.0025,1630,Madhya Pradesh,189,0.32
+Cement OPC,1440,0.91,3192,Chhattisgarh,1092,0.44
+Float Glass,2500,1.0,2074,Maharashtra,241,0.44
+Fine Sand,1600,0.0023,3441,Tamil Nadu,1176,0.7
+Concrete C30,2400,0.32,1775,Rajasthan,1334,0.64
+Aluminium,2700,8.2,1786,Uttar Pradesh,134,0.93
+Cement OPC,1440,0.91,1896,Karnataka,1365,0.72
+Cement OPC,1440,0.91,115,Madhya Pradesh,1396,0.89
+Timber,600,-0.4,1877,Maharashtra,1385,0.84
+Ceramic Tile,2000,0.55,2997,Tamil Nadu,567,0.66
+Fine Sand,1600,0.0023,4908,Madhya Pradesh,1352,0.48
+Ceramic Tile,2000,0.55,4327,Tamil Nadu,802,0.83
+Float Glass,2500,1.0,1240,Odisha,776,0.67
+Fine Sand,1600,0.0023,662,Madhya Pradesh,420,0.7
+Coarse Aggregate,1500,0.0025,4473,Chhattisgarh,789,0.59
+Fine Sand,1600,0.0023,1600,Madhya Pradesh,1497,0.37
+Concrete C30,2400,0.32,608,Tamil Nadu,217,0.7
+Float Glass,2500,1.0,2756,Chhattisgarh,519,0.88
+Ceramic Tile,2000,0.55,3398,Madhya Pradesh,1131,0.81
+Concrete C30,2400,0.32,3094,Rajasthan,630,0.47
+Cement OPC,1440,0.91,3801,Chhattisgarh,1214,0.54
+Steel Rebar,7850,2.6,3286,Madhya Pradesh,148,0.5
+Cement OPC,1440,0.91,2296,Karnataka,214,0.58
+Fine Sand,1600,0.0023,324,Madhya Pradesh,1254,0.86
+Cement OPC,1440,0.91,2368,Karnataka,362,0.34
+Coarse Aggregate,1500,0.0025,1990,Uttar Pradesh,318,0.38
+Cement OPC,1440,0.91,1598,Tamil Nadu,1485,0.69
+Timber,600,-0.4,78,Gujarat,1256,0.7
+Clay Brick,1800,0.22,2066,Chhattisgarh,205,0.46
+Timber,600,-0.4,1025,Chhattisgarh,499,0.6
+Steel Rebar,7850,2.6,2492,Telangana,1476,0.38
+Clay Brick,1800,0.22,4432,Tamil Nadu,443,0.46
+Coarse Aggregate,1500,0.0025,2256,Gujarat,436,0.69
+Float Glass,2500,1.0,4539,Maharashtra,725,0.5
+Timber,600,-0.4,200,Maharashtra,616,0.9
+Clay Brick,1800,0.22,3284,Karnataka,651,0.92
+Float Glass,2500,1.0,830,Karnataka,103,0.81
+Concrete C30,2400,0.32,223,Odisha,616,0.53
+Coarse Aggregate,1500,0.0025,734,Chhattisgarh,1167,0.6
+Concrete C30,2400,0.32,3723,Maharashtra,573,0.46
+Cement OPC,1440,0.91,1003,Gujarat,388,0.9
+Clay Brick,1800,0.22,4910,Telangana,681,0.46
+Ceramic Tile,2000,0.55,3517,Tamil Nadu,387,0.71
+Ceramic Tile,2000,0.55,617,Maharashtra,262,0.79
+Timber,600,-0.4,1347,Karnataka,936,0.96
+Cement OPC,1440,0.91,3242,Odisha,1077,0.57
+Clay Brick,1800,0.22,1846,Rajasthan,778,0.71
+Float Glass,2500,1.0,2004,Gujarat,867,0.53
+Float Glass,2500,1.0,832,Madhya Pradesh,1093,0.71
+Aluminium,2700,8.2,2337,Tamil Nadu,159,0.6
+Cement OPC,1440,0.91,4929,Karnataka,412,0.91
+Concrete C30,2400,0.32,2633,Karnataka,376,0.99
+Fine Sand,1600,0.0023,4539,Tamil Nadu,165,0.95
+Clay Brick,1800,0.22,892,Uttar Pradesh,457,0.67
+Steel Rebar,7850,2.6,3023,Telangana,154,0.36
+Steel Rebar,7850,2.6,385,Odisha,1178,0.54
+Coarse Aggregate,1500,0.0025,2280,Rajasthan,1006,0.84
+Cement OPC,1440,0.91,394,Rajasthan,880,0.38
+Clay Brick,1800,0.22,1660,Uttar Pradesh,316,0.98
+Coarse Aggregate,1500,0.0025,2776,Odisha,1314,0.59
+Float Glass,2500,1.0,3479,Tamil Nadu,409,0.77
+Clay Brick,1800,0.22,4900,Uttar Pradesh,1431,0.61
+Fine Sand,1600,0.0023,1747,Karnataka,722,0.59
+Ceramic Tile,2000,0.55,379,Maharashtra,1403,0.59
+Ceramic Tile,2000,0.55,1284,Tamil Nadu,144,0.71
+Steel Rebar,7850,2.6,1286,Maharashtra,825,0.67
+Clay Brick,1800,0.22,1101,Odisha,278,0.48
+Aluminium,2700,8.2,3174,Maharashtra,335,0.61
+Coarse Aggregate,1500,0.0025,1369,Chhattisgarh,1407,0.53
+Clay Brick,1800,0.22,615,Gujarat,1154,0.39
+Concrete C30,2400,0.32,1398,Karnataka,1291,0.69
+Fine Sand,1600,0.0023,2391,Uttar Pradesh,583,0.3
+Cement OPC,1440,0.91,2424,Uttar Pradesh,549,0.64
+Ceramic Tile,2000,0.55,820,Karnataka,140,0.34
+Clay Brick,1800,0.22,441,Telangana,118,0.97
+Cement OPC,1440,0.91,3540,Chhattisgarh,1362,0.96
+Coarse Aggregate,1500,0.0025,2434,Chhattisgarh,1330,0.66
+Concrete C30,2400,0.32,2674,Gujarat,250,0.54
+Ceramic Tile,2000,0.55,1582,Tamil Nadu,102,0.47
+Ceramic Tile,2000,0.55,3552,Karnataka,1188,0.54
+Timber,600,-0.4,4600,Uttar Pradesh,1039,0.47
+Float Glass,2500,1.0,4484,Chhattisgarh,1121,0.63
+Float Glass,2500,1.0,237,Rajasthan,713,0.62
+Aluminium,2700,8.2,3189,Madhya Pradesh,296,0.49
+Fine Sand,1600,0.0023,3966,Madhya Pradesh,182,1.0
+Float Glass,2500,1.0,3866,Telangana,1349,0.94
+Concrete C30,2400,0.32,1140,Madhya Pradesh,1243,0.44
+Clay Brick,1800,0.22,1573,Madhya Pradesh,950,0.73
+Fine Sand,1600,0.0023,1888,Maharashtra,1395,0.97
+Timber,600,-0.4,3741,Karnataka,941,0.55
+Fine Sand,1600,0.0023,3976,Uttar Pradesh,574,0.62
+Aluminium,2700,8.2,2205,Tamil Nadu,960,0.95
+Coarse Aggregate,1500,0.0025,2039,Rajasthan,1134,0.63
+Concrete C30,2400,0.32,2741,Tamil Nadu,517,0.68
+Fine Sand,1600,0.0023,3073,Tamil Nadu,1309,0.33
+Timber,600,-0.4,3987,Karnataka,869,0.81
+Fine Sand,1600,0.0023,4881,Gujarat,1285,0.43
+Ceramic Tile,2000,0.55,4829,Madhya Pradesh,947,0.64
+Float Glass,2500,1.0,409,Odisha,379,0.4
+Coarse Aggregate,1500,0.0025,228,Tamil Nadu,917,0.87
+Timber,600,-0.4,76,Chhattisgarh,363,0.7
+Clay Brick,1800,0.22,2204,Odisha,803,0.56
+Timber,600,-0.4,4656,Odisha,722,0.93
+Float Glass,2500,1.0,2833,Odisha,30,0.42
+Ceramic Tile,2000,0.55,1286,Uttar Pradesh,1416,0.34
+Ceramic Tile,2000,0.55,4642,Telangana,1420,0.51
+Aluminium,2700,8.2,3335,Odisha,815,0.77
+Float Glass,2500,1.0,1832,Odisha,1187,0.45
+Clay Brick,1800,0.22,854,Uttar Pradesh,979,0.65
+Fine Sand,1600,0.0023,3294,Telangana,726,0.64
+Concrete C30,2400,0.32,4449,Madhya Pradesh,1365,0.31
+Timber,600,-0.4,2558,Odisha,273,0.94
+Aluminium,2700,8.2,458,Karnataka,1147,0.71
+Steel Rebar,7850,2.6,4240,Odisha,1204,0.39
+Clay Brick,1800,0.22,4938,Odisha,1337,0.4
+Concrete C30,2400,0.32,4082,Maharashtra,837,0.97
+Clay Brick,1800,0.22,1977,Madhya Pradesh,914,0.7
+Cement OPC,1440,0.91,2440,Maharashtra,355,0.92
+Coarse Aggregate,1500,0.0025,4624,Odisha,1413,0.59
+Timber,600,-0.4,622,Chhattisgarh,1435,0.67
+Steel Rebar,7850,2.6,4057,Chhattisgarh,46,0.6
+Clay Brick,1800,0.22,1360,Maharashtra,608,0.68
+Ceramic Tile,2000,0.55,1593,Rajasthan,1195,0.76
+Steel Rebar,7850,2.6,3101,Rajasthan,1058,0.75
+Cement OPC,1440,0.91,1014,Telangana,667,0.8
+Aluminium,2700,8.2,2669,Rajasthan,1355,0.62
+Fine Sand,1600,0.0023,4099,Karnataka,422,0.82
+Steel Rebar,7850,2.6,1133,Tamil Nadu,754,0.79
+Fine Sand,1600,0.0023,204,Karnataka,481,0.41
+Aluminium,2700,8.2,3025,Tamil Nadu,659,0.3
+Clay Brick,1800,0.22,320,Tamil Nadu,1363,0.61
+Ceramic Tile,2000,0.55,622,Uttar Pradesh,23,0.56
+Steel Rebar,7850,2.6,1611,Maharashtra,1477,0.84
+Cement OPC,1440,0.91,2656,Telangana,1028,0.52
+Coarse Aggregate,1500,0.0025,200,Maharashtra,611,0.48
+Steel Rebar,7850,2.6,3186,Gujarat,237,0.38
+Concrete C30,2400,0.32,2692,Telangana,1181,0.46
+Coarse Aggregate,1500,0.0025,3741,Karnataka,355,0.87
+Ceramic Tile,2000,0.55,2847,Telangana,1355,0.96
+Clay Brick,1800,0.22,2030,Gujarat,370,0.95
+Cement OPC,1440,0.91,1744,Karnataka,689,0.37
+Steel Rebar,7850,2.6,2659,Karnataka,367,0.57
+Concrete C30,2400,0.32,1894,Odisha,554,0.79
+Float Glass,2500,1.0,2042,Madhya Pradesh,493,0.48
+Clay Brick,1800,0.22,3014,Rajasthan,515,0.45
+Clay Brick,1800,0.22,930,Madhya Pradesh,489,0.35
+Timber,600,-0.4,4334,Tamil Nadu,1388,0.48
+Float Glass,2500,1.0,684,Maharashtra,1025,0.55
+Timber,600,-0.4,4200,Maharashtra,434,0.65
+Ceramic Tile,2000,0.55,2664,Tamil Nadu,1148,0.52
+Float Glass,2500,1.0,547,Chhattisgarh,876,0.47
+Float Glass,2500,1.0,1226,Karnataka,271,0.5
+Fine Sand,1600,0.0023,3291,Karnataka,882,0.75
+Concrete C30,2400,0.32,308,Telangana,529,0.95
+Aluminium,2700,8.2,957,Rajasthan,423,0.82
+Coarse Aggregate,1500,0.0025,3658,Rajasthan,883,0.46
+Steel Rebar,7850,2.6,499,Uttar Pradesh,931,0.61
+Aluminium,2700,8.2,1621,Odisha,248,0.74
+Clay Brick,1800,0.22,3349,Rajasthan,211,0.77
+Float Glass,2500,1.0,2453,Gujarat,414,0.66
+Float Glass,2500,1.0,4004,Odisha,1343,0.84
+Clay Brick,1800,0.22,4787,Chhattisgarh,1118,0.62
+Fine Sand,1600,0.0023,3073,Uttar Pradesh,65,0.82
+Ceramic Tile,2000,0.55,4292,Madhya Pradesh,68,0.69
+Float Glass,2500,1.0,2684,Karnataka,721,0.41
+Clay Brick,1800,0.22,364,Karnataka,729,0.83
+Cement OPC,1440,0.91,1519,Rajasthan,439,0.53
+Aluminium,2700,8.2,4570,Maharashtra,387,0.75
+Clay Brick,1800,0.22,3109,Odisha,604,0.91
+Cement OPC,1440,0.91,2544,Tamil Nadu,563,0.7
+Coarse Aggregate,1500,0.0025,3136,Tamil Nadu,837,0.78
+Steel Rebar,7850,2.6,787,Odisha,753,0.37
+Steel Rebar,7850,2.6,1565,Gujarat,1405,0.64
+Cement OPC,1440,0.91,1520,Odisha,978,0.6
+Concrete C30,2400,0.32,3826,Odisha,111,0.8
+Fine Sand,1600,0.0023,4097,Karnataka,297,0.88
+Aluminium,2700,8.2,4278,Maharashtra,888,0.56
+Float Glass,2500,1.0,3622,Telangana,1289,0.36
+Cement OPC,1440,0.91,719,Uttar Pradesh,1427,0.94
+Clay Brick,1800,0.22,1959,Odisha,100,0.86
+Concrete C30,2400,0.32,3753,Telangana,800,0.63
+Concrete C30,2400,0.32,4685,Karnataka,79,0.97
+Fine Sand,1600,0.0023,3129,Telangana,196,0.69
+Clay Brick,1800,0.22,1941,Tamil Nadu,1177,0.95
+Ceramic Tile,2000,0.55,4949,Rajasthan,423,0.9
+Fine Sand,1600,0.0023,4177,Rajasthan,1107,0.7
+Aluminium,2700,8.2,1257,Karnataka,40,0.95
+Coarse Aggregate,1500,0.0025,4469,Karnataka,841,0.41
+Fine Sand,1600,0.0023,3721,Odisha,646,0.52
+Concrete C30,2400,0.32,4405,Rajasthan,26,0.71
+Coarse Aggregate,1500,0.0025,4212,Chhattisgarh,136,0.98
+Fine Sand,1600,0.0023,4809,Telangana,1119,0.96
+Concrete C30,2400,0.32,3087,Telangana,815,0.47
+Timber,600,-0.4,3381,Telangana,328,0.77
+Cement OPC,1440,0.91,2147,Telangana,1375,0.55
+Aluminium,2700,8.2,2648,Karnataka,784,0.45
+Aluminium,2700,8.2,740,Chhattisgarh,1110,0.44
+Coarse Aggregate,1500,0.0025,4682,Odisha,699,0.31
+Fine Sand,1600,0.0023,4868,Madhya Pradesh,762,0.68
+Clay Brick,1800,0.22,1683,Chhattisgarh,167,0.4
+Concrete C30,2400,0.32,2029,Gujarat,98,0.53
+Float Glass,2500,1.0,2336,Uttar Pradesh,1399,0.7
+Concrete C30,2400,0.32,3135,Odisha,377,0.64
+Steel Rebar,7850,2.6,2705,Maharashtra,708,0.41
+Concrete C30,2400,0.32,3614,Telangana,943,0.53
+Steel Rebar,7850,2.6,2155,Uttar Pradesh,646,0.52
+Steel Rebar,7850,2.6,3055,Gujarat,608,0.62
+Aluminium,2700,8.2,463,Gujarat,760,0.8
+Ceramic Tile,2000,0.55,1590,Uttar Pradesh,1298,0.31
+Aluminium,2700,8.2,2704,Uttar Pradesh,328,0.88
+Steel Rebar,7850,2.6,1693,Telangana,383,0.36
+Timber,600,-0.4,1425,Odisha,373,0.59
+Coarse Aggregate,1500,0.0025,3845,Madhya Pradesh,974,0.4
+Coarse Aggregate,1500,0.0025,606,Gujarat,1160,0.41
+Timber,600,-0.4,1210,Telangana,809,0.76
+Timber,600,-0.4,2379,Telangana,853,0.69
+Aluminium,2700,8.2,2127,Uttar Pradesh,210,0.39
+Fine Sand,1600,0.0023,2349,Uttar Pradesh,1002,0.68
+Ceramic Tile,2000,0.55,1344,Odisha,792,0.45
+Ceramic Tile,2000,0.55,4772,Karnataka,178,0.44
+Coarse Aggregate,1500,0.0025,4506,Karnataka,1010,0.34
+Steel Rebar,7850,2.6,1898,Odisha,1287,0.8
+Aluminium,2700,8.2,1093,Uttar Pradesh,1290,0.39
+Steel Rebar,7850,2.6,2014,Gujarat,765,0.95
+Steel Rebar,7850,2.6,729,Odisha,467,0.68
+Coarse Aggregate,1500,0.0025,241,Maharashtra,1355,0.49
+Timber,600,-0.4,3627,Uttar Pradesh,921,0.6
+Aluminium,2700,8.2,4886,Chhattisgarh,126,0.36
+Fine Sand,1600,0.0023,4555,Uttar Pradesh,1246,0.32
+Clay Brick,1800,0.22,3095,Rajasthan,1022,0.65
+Aluminium,2700,8.2,845,Uttar Pradesh,1077,0.63
+Coarse Aggregate,1500,0.0025,1327,Chhattisgarh,658,0.8
+Float Glass,2500,1.0,2959,Madhya Pradesh,827,0.36
+Concrete C30,2400,0.32,2931,Karnataka,839,0.99
+Fine Sand,1600,0.0023,1027,Uttar Pradesh,1186,0.35
+Coarse Aggregate,1500,0.0025,1253,Odisha,166,0.78
+Fine Sand,1600,0.0023,4858,Tamil Nadu,110,0.38
+Coarse Aggregate,1500,0.0025,1305,Telangana,767,0.81
+Concrete C30,2400,0.32,2463,Madhya Pradesh,1098,0.71
+Fine Sand,1600,0.0023,4121,Telangana,901,0.4
+Fine Sand,1600,0.0023,3245,Madhya Pradesh,974,0.96
+Ceramic Tile,2000,0.55,3023,Uttar Pradesh,108,0.93
+Aluminium,2700,8.2,651,Rajasthan,397,0.98
+Clay Brick,1800,0.22,4140,Maharashtra,1073,0.67
+Aluminium,2700,8.2,302,Gujarat,679,0.42
+Aluminium,2700,8.2,3699,Rajasthan,1474,0.36
+Ceramic Tile,2000,0.55,3237,Karnataka,1233,0.72
+Float Glass,2500,1.0,1375,Gujarat,763,0.84
+Ceramic Tile,2000,0.55,310,Maharashtra,1242,0.74
+Fine Sand,1600,0.0023,1704,Rajasthan,957,0.66
+Fine Sand,1600,0.0023,4350,Uttar Pradesh,889,0.77
+Clay Brick,1800,0.22,3266,Karnataka,788,0.73
+Timber,600,-0.4,3399,Gujarat,226,0.83
+Clay Brick,1800,0.22,4857,Tamil Nadu,598,0.41
+Ceramic Tile,2000,0.55,1335,Chhattisgarh,586,0.64
+Cement OPC,1440,0.91,2593,Maharashtra,976,0.84
+Cement OPC,1440,0.91,4589,Odisha,560,0.54
+Concrete C30,2400,0.32,2182,Karnataka,161,0.99
+Steel Rebar,7850,2.6,1439,Rajasthan,1110,0.84
+Coarse Aggregate,1500,0.0025,4470,Maharashtra,729,0.75
+Timber,600,-0.4,1615,Karnataka,1477,0.45
+Clay Brick,1800,0.22,3179,Tamil Nadu,1007,0.76
+Fine Sand,1600,0.0023,1377,Chhattisgarh,632,0.99
+Ceramic Tile,2000,0.55,1275,Tamil Nadu,671,0.9
+Aluminium,2700,8.2,486,Tamil Nadu,531,0.42
+Aluminium,2700,8.2,2749,Karnataka,658,0.54
+Timber,600,-0.4,2110,Tamil Nadu,1064,0.81
+Cement OPC,1440,0.91,3980,Telangana,796,0.88
+Ceramic Tile,2000,0.55,2359,Tamil Nadu,569,0.75
+Ceramic Tile,2000,0.55,3793,Tamil Nadu,1361,0.51
+Float Glass,2500,1.0,2228,Maharashtra,401,0.55
+Steel Rebar,7850,2.6,691,Karnataka,1185,0.54
+Coarse Aggregate,1500,0.0025,1392,Karnataka,400,0.69
+Clay Brick,1800,0.22,1557,Rajasthan,528,0.5
+Float Glass,2500,1.0,2063,Gujarat,1152,0.64
+Cement OPC,1440,0.91,3320,Karnataka,988,0.64
+Steel Rebar,7850,2.6,4127,Karnataka,269,0.49
+Aluminium,2700,8.2,99,Odisha,285,0.43
+Clay Brick,1800,0.22,4841,Tamil Nadu,67,0.92
+Clay Brick,1800,0.22,4491,Karnataka,952,0.64
+Concrete C30,2400,0.32,4762,Uttar Pradesh,546,0.95
+Timber,600,-0.4,2073,Karnataka,1071,0.39
+Timber,600,-0.4,3837,Madhya Pradesh,1335,0.99
+Ceramic Tile,2000,0.55,2155,Madhya Pradesh,1455,0.77
+Cement OPC,1440,0.91,3615,Maharashtra,426,0.84
+Coarse Aggregate,1500,0.0025,4020,Telangana,1046,0.43
+Coarse Aggregate,1500,0.0025,439,Karnataka,1322,0.92
+Fine Sand,1600,0.0023,167,Maharashtra,1420,0.38
+Concrete C30,2400,0.32,501,Chhattisgarh,190,0.84
+Timber,600,-0.4,2081,Madhya Pradesh,188,0.52
+Concrete C30,2400,0.32,2507,Telangana,1467,0.38
+Concrete C30,2400,0.32,3779,Karnataka,763,0.57
+Fine Sand,1600,0.0023,2809,Karnataka,1381,0.86
+Fine Sand,1600,0.0023,519,Madhya Pradesh,1333,0.58
+Steel Rebar,7850,2.6,501,Telangana,1414,0.39
+Coarse Aggregate,1500,0.0025,804,Tamil Nadu,1144,0.87
+Steel Rebar,7850,2.6,2034,Tamil Nadu,881,0.31
+Timber,600,-0.4,2624,Chhattisgarh,643,0.89
+Cement OPC,1440,0.91,557,Maharashtra,38,0.35
+Cement OPC,1440,0.91,956,Madhya Pradesh,1292,0.39
+Ceramic Tile,2000,0.55,766,Madhya Pradesh,519,0.35
+Steel Rebar,7850,2.6,3812,Telangana,1163,0.36
+Ceramic Tile,2000,0.55,2964,Gujarat,309,0.66
+Concrete C30,2400,0.32,3824,Odisha,1157,0.61
+Cement OPC,1440,0.91,1229,Karnataka,745,0.65
+Steel Rebar,7850,2.6,195,Uttar Pradesh,1413,0.42
+Ceramic Tile,2000,0.55,1623,Odisha,928,0.3
+Cement OPC,1440,0.91,4927,Uttar Pradesh,38,0.3
+Ceramic Tile,2000,0.55,2837,Odisha,459,0.92
+Clay Brick,1800,0.22,2392,Uttar Pradesh,802,0.33
+Ceramic Tile,2000,0.55,2396,Chhattisgarh,905,0.91
+Coarse Aggregate,1500,0.0025,1621,Karnataka,449,0.41
+Concrete C30,2400,0.32,4854,Tamil Nadu,326,0.72
+Steel Rebar,7850,2.6,1654,Rajasthan,1307,0.46
+Timber,600,-0.4,3832,Gujarat,234,0.99
+Coarse Aggregate,1500,0.0025,2011,Odisha,337,0.89
+Ceramic Tile,2000,0.55,1612,Tamil Nadu,259,0.75
+Aluminium,2700,8.2,1306,Gujarat,275,0.72
+Aluminium,2700,8.2,4233,Uttar Pradesh,304,0.77
+Coarse Aggregate,1500,0.0025,3949,Gujarat,363,0.73
+Steel Rebar,7850,2.6,4558,Gujarat,287,0.56
+Cement OPC,1440,0.91,949,Tamil Nadu,933,0.74
+Steel Rebar,7850,2.6,2927,Maharashtra,337,0.65
+Float Glass,2500,1.0,273,Maharashtra,1072,0.32
+Clay Brick,1800,0.22,4477,Tamil Nadu,577,0.48
+Float Glass,2500,1.0,3356,Telangana,499,0.5
+Concrete C30,2400,0.32,3802,Gujarat,1151,0.68
+Steel Rebar,7850,2.6,3784,Rajasthan,597,0.98
+Clay Brick,1800,0.22,4399,Rajasthan,1459,0.34
+Float Glass,2500,1.0,4404,Tamil Nadu,352,0.75
+Ceramic Tile,2000,0.55,1158,Madhya Pradesh,1036,0.83
+Float Glass,2500,1.0,124,Chhattisgarh,57,0.49
+Timber,600,-0.4,1682,Maharashtra,968,0.77
+Timber,600,-0.4,4322,Tamil Nadu,1123,0.35
+Concrete C30,2400,0.32,787,Odisha,1082,0.46
+Timber,600,-0.4,353,Tamil Nadu,212,0.36
+Fine Sand,1600,0.0023,2945,Odisha,1118,0.3
+Aluminium,2700,8.2,2713,Uttar Pradesh,1028,0.36
+Steel Rebar,7850,2.6,1294,Maharashtra,842,0.98
+Cement OPC,1440,0.91,799,Gujarat,359,0.9
+Timber,600,-0.4,1666,Uttar Pradesh,128,0.73
+Cement OPC,1440,0.91,2539,Odisha,1172,0.85
+Float Glass,2500,1.0,562,Uttar Pradesh,603,0.55
+Clay Brick,1800,0.22,3775,Chhattisgarh,275,0.44
+Aluminium,2700,8.2,1586,Maharashtra,1263,0.43
+Steel Rebar,7850,2.6,2664,Odisha,624,0.86
+Fine Sand,1600,0.0023,1323,Karnataka,446,0.82
+Cement OPC,1440,0.91,2453,Rajasthan,1010,0.46
+Coarse Aggregate,1500,0.0025,4523,Karnataka,1073,0.64
+Steel Rebar,7850,2.6,3441,Telangana,551,0.42
+Ceramic Tile,2000,0.55,4243,Telangana,596,0.79
+Coarse Aggregate,1500,0.0025,1349,Uttar Pradesh,330,0.86
+Concrete C30,2400,0.32,2441,Uttar Pradesh,629,0.55
+Coarse Aggregate,1500,0.0025,1800,Uttar Pradesh,1043,0.44
+Coarse Aggregate,1500,0.0025,548,Maharashtra,167,0.3
+Clay Brick,1800,0.22,751,Maharashtra,1448,0.76
+Float Glass,2500,1.0,4317,Karnataka,365,0.4
+Ceramic Tile,2000,0.55,3111,Chhattisgarh,391,0.96
+Aluminium,2700,8.2,1536,Karnataka,286,0.98
+Timber,600,-0.4,4826,Tamil Nadu,320,0.58
+Steel Rebar,7850,2.6,1791,Chhattisgarh,1458,0.65
+Fine Sand,1600,0.0023,1094,Odisha,514,0.52
+Float Glass,2500,1.0,3361,Odisha,543,0.67
+Timber,600,-0.4,2013,Uttar Pradesh,581,0.8
+Ceramic Tile,2000,0.55,3578,Chhattisgarh,125,0.35
+Cement OPC,1440,0.91,1018,Madhya Pradesh,724,0.94
+Clay Brick,1800,0.22,2403,Odisha,247,0.62
+Aluminium,2700,8.2,2341,Tamil Nadu,166,0.62
+Float Glass,2500,1.0,3603,Rajasthan,1275,0.96
+Coarse Aggregate,1500,0.0025,980,Telangana,1202,0.4
+Clay Brick,1800,0.22,4359,Tamil Nadu,1029,0.81
+Coarse Aggregate,1500,0.0025,491,Telangana,1432,0.6
+Timber,600,-0.4,1702,Gujarat,498,0.65
+Aluminium,2700,8.2,3708,Chhattisgarh,1167,0.95
+Concrete C30,2400,0.32,4690,Maharashtra,320,0.42
+Steel Rebar,7850,2.6,4244,Chhattisgarh,469,0.89
+Float Glass,2500,1.0,1008,Telangana,604,0.4
+Ceramic Tile,2000,0.55,4520,Odisha,1331,0.82
+Concrete C30,2400,0.32,3050,Maharashtra,1037,0.46
+Coarse Aggregate,1500,0.0025,267,Gujarat,599,0.88
+Steel Rebar,7850,2.6,1197,Uttar Pradesh,961,0.7
+Cement OPC,1440,0.91,4802,Telangana,1295,0.61
+Aluminium,2700,8.2,4981,Madhya Pradesh,1092,0.95
+Steel Rebar,7850,2.6,838,Maharashtra,20,0.58
+Aluminium,2700,8.2,4902,Madhya Pradesh,1432,0.33
+Ceramic Tile,2000,0.55,1778,Rajasthan,691,0.63
+Aluminium,2700,8.2,1019,Madhya Pradesh,1399,0.31
+Steel Rebar,7850,2.6,2783,Gujarat,26,0.91
+Fine Sand,1600,0.0023,407,Gujarat,1164,0.92
+Timber,600,-0.4,3900,Maharashtra,873,0.37
+Float Glass,2500,1.0,4077,Rajasthan,808,0.61
+Aluminium,2700,8.2,2023,Uttar Pradesh,1244,0.32
+Cement OPC,1440,0.91,859,Chhattisgarh,1114,0.86
+Concrete C30,2400,0.32,1989,Maharashtra,333,0.88
+Ceramic Tile,2000,0.55,4561,Telangana,581,0.64
+Steel Rebar,7850,2.6,396,Telangana,146,0.61
+Aluminium,2700,8.2,3435,Tamil Nadu,401,0.36
+Coarse Aggregate,1500,0.0025,980,Madhya Pradesh,460,0.98
+Cement OPC,1440,0.91,946,Rajasthan,1038,0.51
+Aluminium,2700,8.2,1119,Odisha,1293,0.51
+Aluminium,2700,8.2,554,Karnataka,228,0.82
+Float Glass,2500,1.0,2619,Gujarat,1207,0.36
+Timber,600,-0.4,3059,Karnataka,689,0.52
+Cement OPC,1440,0.91,2888,Gujarat,155,0.92
+Timber,600,-0.4,2071,Madhya Pradesh,744,0.44
+Aluminium,2700,8.2,4358,Maharashtra,385,0.7
+Aluminium,2700,8.2,755,Karnataka,56,0.83
+Timber,600,-0.4,2397,Rajasthan,948,0.59
+Coarse Aggregate,1500,0.0025,4864,Gujarat,712,0.42
+Float Glass,2500,1.0,4874,Gujarat,940,0.48
+Fine Sand,1600,0.0023,1898,Telangana,871,0.82
+Cement OPC,1440,0.91,1627,Gujarat,200,0.69
+Steel Rebar,7850,2.6,2301,Telangana,657,0.92
+Steel Rebar,7850,2.6,1541,Tamil Nadu,1480,0.57
+Cement OPC,1440,0.91,3418,Gujarat,32,0.65
+Aluminium,2700,8.2,1690,Odisha,839,0.74
+Timber,600,-0.4,2324,Karnataka,870,0.92
+Fine Sand,1600,0.0023,3920,Maharashtra,1100,0.96
+Fine Sand,1600,0.0023,1107,Odisha,418,0.76
+Cement OPC,1440,0.91,3355,Madhya Pradesh,1343,0.56
+Timber,600,-0.4,4637,Maharashtra,834,0.8
+Clay Brick,1800,0.22,1917,Madhya Pradesh,574,0.78
+Float Glass,2500,1.0,2348,Rajasthan,182,0.41
+Float Glass,2500,1.0,3689,Madhya Pradesh,480,0.74
+Coarse Aggregate,1500,0.0025,4656,Maharashtra,521,0.67
+Timber,600,-0.4,4900,Telangana,358,0.76
+Concrete C30,2400,0.32,4338,Gujarat,71,0.5
+Coarse Aggregate,1500,0.0025,4615,Maharashtra,79,0.43
+Clay Brick,1800,0.22,4020,Telangana,815,0.68
+Coarse Aggregate,1500,0.0025,2575,Odisha,505,0.99
+Float Glass,2500,1.0,3174,Gujarat,618,0.37
+Steel Rebar,7850,2.6,3041,Maharashtra,1126,0.7
+Cement OPC,1440,0.91,2491,Karnataka,678,0.96
+Concrete C30,2400,0.32,2971,Madhya Pradesh,114,0.67
+Clay Brick,1800,0.22,2586,Madhya Pradesh,1076,0.81
+Float Glass,2500,1.0,2173,Rajasthan,341,0.55
+Concrete C30,2400,0.32,2575,Chhattisgarh,993,0.88
+Aluminium,2700,8.2,3438,Odisha,878,0.35
+Concrete C30,2400,0.32,1659,Madhya Pradesh,374,0.65
+Coarse Aggregate,1500,0.0025,3946,Uttar Pradesh,338,0.76
+Ceramic Tile,2000,0.55,2852,Uttar Pradesh,526,0.8
+Timber,600,-0.4,293,Telangana,483,0.88
+Timber,600,-0.4,4792,Tamil Nadu,1418,0.34
+Aluminium,2700,8.2,177,Tamil Nadu,619,0.46
+Coarse Aggregate,1500,0.0025,1112,Karnataka,1454,0.68
+Aluminium,2700,8.2,2166,Rajasthan,1360,0.4
+Coarse Aggregate,1500,0.0025,290,Madhya Pradesh,118,0.32
+Concrete C30,2400,0.32,3663,Gujarat,822,0.35
+Clay Brick,1800,0.22,4733,Madhya Pradesh,1356,0.9
+Coarse Aggregate,1500,0.0025,2957,Tamil Nadu,1162,0.64
+Aluminium,2700,8.2,4761,Rajasthan,854,0.98
+Aluminium,2700,8.2,1138,Gujarat,709,0.48
+Ceramic Tile,2000,0.55,2778,Tamil Nadu,520,0.54
+Coarse Aggregate,1500,0.0025,3248,Karnataka,444,0.59
+Coarse Aggregate,1500,0.0025,2785,Maharashtra,1213,0.74
+Float Glass,2500,1.0,4100,Rajasthan,1306,0.94
+Fine Sand,1600,0.0023,1719,Chhattisgarh,810,0.8
+Aluminium,2700,8.2,3272,Tamil Nadu,971,0.35
+Timber,600,-0.4,3149,Telangana,848,0.62
+Fine Sand,1600,0.0023,178,Karnataka,39,0.62
+Ceramic Tile,2000,0.55,2258,Chhattisgarh,637,1.0
+Coarse Aggregate,1500,0.0025,4420,Gujarat,48,0.35
+Ceramic Tile,2000,0.55,1996,Gujarat,1098,0.87
+Coarse Aggregate,1500,0.0025,111,Uttar Pradesh,661,0.38
+Concrete C30,2400,0.32,3437,Gujarat,387,0.72
+Timber,600,-0.4,2864,Uttar Pradesh,1237,0.57
+Aluminium,2700,8.2,2241,Telangana,222,0.71
+Concrete C30,2400,0.32,3556,Chhattisgarh,170,0.89
+Ceramic Tile,2000,0.55,3435,Odisha,1186,0.94
+Float Glass,2500,1.0,3359,Telangana,142,0.6
+Cement OPC,1440,0.91,2843,Madhya Pradesh,1357,0.46
+Float Glass,2500,1.0,3263,Telangana,1200,0.46
+Ceramic Tile,2000,0.55,2882,Tamil Nadu,417,0.44
+Aluminium,2700,8.2,1541,Madhya Pradesh,88,0.83
+Steel Rebar,7850,2.6,2901,Telangana,683,0.31
+Cement OPC,1440,0.91,4453,Karnataka,875,1.0
+Steel Rebar,7850,2.6,2896,Madhya Pradesh,1084,0.51
+Aluminium,2700,8.2,1196,Madhya Pradesh,130,0.67
+Clay Brick,1800,0.22,2453,Rajasthan,786,0.89
+Timber,600,-0.4,1917,Tamil Nadu,1181,0.33
+Ceramic Tile,2000,0.55,508,Gujarat,560,0.87
+Fine Sand,1600,0.0023,2905,Gujarat,139,0.77
+Cement OPC,1440,0.91,2663,Gujarat,1389,0.8
+Coarse Aggregate,1500,0.0025,4771,Gujarat,385,0.53
+Aluminium,2700,8.2,3131,Odisha,679,0.55
+Clay Brick,1800,0.22,3016,Maharashtra,888,1.0
+Steel Rebar,7850,2.6,4213,Karnataka,658,0.8
+Cement OPC,1440,0.91,641,Gujarat,609,0.33
+Cement OPC,1440,0.91,2634,Gujarat,160,0.76
+Aluminium,2700,8.2,4374,Telangana,624,0.76
+Timber,600,-0.4,3992,Maharashtra,170,0.54
+Cement OPC,1440,0.91,2437,Maharashtra,1440,0.88
+Timber,600,-0.4,3580,Odisha,687,0.74
+Steel Rebar,7850,2.6,154,Chhattisgarh,674,0.86
+Concrete C30,2400,0.32,4366,Uttar Pradesh,1458,0.69
+Coarse Aggregate,1500,0.0025,2123,Chhattisgarh,1098,0.73
+Fine Sand,1600,0.0023,1457,Uttar Pradesh,1378,0.31
+Aluminium,2700,8.2,1180,Maharashtra,1323,0.82
+Coarse Aggregate,1500,0.0025,2157,Odisha,570,0.4
+Aluminium,2700,8.2,637,Chhattisgarh,810,0.94
+Ceramic Tile,2000,0.55,2812,Tamil Nadu,1030,0.86
+Ceramic Tile,2000,0.55,3543,Maharashtra,1220,0.45
+Float Glass,2500,1.0,4578,Uttar Pradesh,740,0.38
+Ceramic Tile,2000,0.55,4537,Madhya Pradesh,1449,0.77
+Ceramic Tile,2000,0.55,1854,Odisha,486,0.99
+Aluminium,2700,8.2,3445,Maharashtra,247,0.4
+Clay Brick,1800,0.22,744,Maharashtra,33,0.76
+Clay Brick,1800,0.22,2036,Gujarat,244,0.84
+Steel Rebar,7850,2.6,4503,Gujarat,851,0.89
+Clay Brick,1800,0.22,3043,Maharashtra,801,0.5
+Concrete C30,2400,0.32,2929,Rajasthan,189,0.6
+Cement OPC,1440,0.91,2656,Madhya Pradesh,498,0.92
+Clay Brick,1800,0.22,2468,Chhattisgarh,833,0.47
+Clay Brick,1800,0.22,2820,Tamil Nadu,1047,0.42
+Coarse Aggregate,1500,0.0025,2007,Maharashtra,932,0.55
+Ceramic Tile,2000,0.55,1020,Gujarat,52,0.85
+Concrete C30,2400,0.32,777,Karnataka,978,0.31
+Fine Sand,1600,0.0023,68,Uttar Pradesh,168,0.32
+Steel Rebar,7850,2.6,1255,Telangana,716,0.45
+Steel Rebar,7850,2.6,2367,Odisha,411,0.63
+Fine Sand,1600,0.0023,2019,Maharashtra,345,0.7
+Aluminium,2700,8.2,299,Karnataka,257,0.48
+Float Glass,2500,1.0,3429,Maharashtra,392,0.72
+Aluminium,2700,8.2,3780,Gujarat,1405,0.76
+Coarse Aggregate,1500,0.0025,4555,Maharashtra,144,0.88
+Coarse Aggregate,1500,0.0025,997,Maharashtra,735,0.72
+Timber,600,-0.4,2562,Tamil Nadu,1138,0.45
+Clay Brick,1800,0.22,3864,Uttar Pradesh,71,0.53
+Concrete C30,2400,0.32,2322,Rajasthan,381,0.48
+Float Glass,2500,1.0,2909,Maharashtra,1000,0.94
+Coarse Aggregate,1500,0.0025,686,Gujarat,345,0.93
+Fine Sand,1600,0.0023,4590,Karnataka,1414,0.42
+Steel Rebar,7850,2.6,4517,Odisha,922,0.56
+Aluminium,2700,8.2,2789,Telangana,667,0.5
+Coarse Aggregate,1500,0.0025,1125,Gujarat,924,0.72
+Clay Brick,1800,0.22,4168,Chhattisgarh,1481,0.51
+Timber,600,-0.4,4296,Tamil Nadu,157,0.71
+Clay Brick,1800,0.22,1237,Telangana,734,0.63
+Timber,600,-0.4,1339,Rajasthan,668,0.8
+Clay Brick,1800,0.22,1248,Uttar Pradesh,495,0.39
+Ceramic Tile,2000,0.55,2009,Madhya Pradesh,653,0.94
+Timber,600,-0.4,2627,Rajasthan,1295,0.63
+Timber,600,-0.4,3613,Karnataka,1178,0.65
