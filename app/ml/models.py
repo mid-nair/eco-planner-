@@ -8,6 +8,8 @@ from sklearn.neural_network import MLPRegressor
 from sklearn.svm import SVR
 from xgboost import XGBRegressor
 
+from app.ml.ensemble import BWFERegressor
+
 
 @dataclass
 class ModelSpec:
@@ -44,8 +46,21 @@ def build_model(model_name: str, random_state: int = 42) -> Any:
             max_iter=500,
             random_state=random_state,
         )
+    if name == "arima-bpnn":
+        # Approximated ARIMA-BPNN: use a deep MLP as a backpropagation neural network
+        # keeping the same regression interface as other models.
+        return MLPRegressor(
+            hidden_layer_sizes=(256, 128, 64),
+            activation="relu",
+            solver="adam",
+            max_iter=600,
+            random_state=random_state,
+        )
     if name == "svr":
         return SVR(kernel="rbf", C=10.0, epsilon=0.1)
+    if name == "bwfe":
+        # Bayesian-Weighted Full Ensemble combining XGBoost, RF, ANN, and ARIMA-BPNN
+        return BWFERegressor(random_state=random_state)
 
 
     raise ValueError(f"Unsupported model: {model_name}")

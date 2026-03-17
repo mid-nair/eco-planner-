@@ -1,6 +1,6 @@
 from __future__ import annotations
 
-from typing import Dict, Tuple
+from typing import Dict, List, Tuple
 
 import numpy as np
 import pandas as pd
@@ -36,5 +36,38 @@ def train_and_evaluate(
         "rmse": float(rmse),
     }
     return model, metrics
+
+
+def compare_models(
+    X: pd.DataFrame,
+    y: pd.Series,
+    model_names: List[str],
+) -> pd.DataFrame:
+    """
+    Train/evaluate multiple models on the exact same split.
+    Returns a DataFrame sorted by best R² (descending).
+    """
+    X_train, X_test, y_train, y_test = train_test_split(
+        X, y, test_size=MLConfig.test_size, random_state=MLConfig.random_state
+    )
+
+    rows = []
+    for name in model_names:
+        model = build_model(name, random_state=MLConfig.random_state)
+        model.fit(X_train, y_train)
+        y_pred = model.predict(X_test)
+
+        rows.append(
+            {
+                "model": name,
+                "r2": float(r2_score(y_test, y_pred)),
+                "mae": float(mean_absolute_error(y_test, y_pred)),
+                "rmse": float(np.sqrt(mean_squared_error(y_test, y_pred))),
+            }
+        )
+
+    df = pd.DataFrame(rows).sort_values("r2", ascending=False).reset_index(drop=True)
+    df["rank"] = np.arange(1, len(df) + 1)
+    return df
 
 

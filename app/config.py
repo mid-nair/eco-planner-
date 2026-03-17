@@ -27,5 +27,7 @@ SUPPORTED_MODELS = [
     "XGBoost",
     "ANN",
     "SVR",
+    "ARIMA-BPNN",
+    "BWFE",
 ]
 

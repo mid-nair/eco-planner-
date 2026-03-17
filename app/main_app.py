@@ -6,6 +6,7 @@ import sys
 
 import pandas as pd
 import streamlit as st
+import plotly.express as px
 
 
 # Ensure project root is on sys.path so `import app.*` works
@@ -18,7 +19,7 @@ from app.data.features import prepare_feature_matrix, build_feature_matrix_for_s
 from app.data.loaders import load_all_datasets, load_scenarios
 from app.explainability.shap_explainer import compute_shap_values
 from app.ml.predict import predict_emissions
-from app.ml.train_eval import train_and_evaluate
+from app.ml.train_eval import compare_models, train_and_evaluate
 from app.optimization.categorization import categorize_plans
 from app.optimization.nsga_solver import optimize_plans_nsga
 from app.optimization.topsis import topsis_rank
@@ -48,6 +49,12 @@ def _load_and_prepare():
     datasets = load_all_datasets()
     X, y, scaler = prepare_feature_matrix(datasets)
     return datasets, X, y, scaler
+
+
+@st.cache_data(show_spinner=False)
+def _compare_all_models_cached(X: pd.DataFrame, y: pd.Series, model_names: list[str]) -> pd.DataFrame:
+    # Cache results so users can re-open without retraining everything
+    return compare_models(X, y, model_names=model_names)
 
 
 def sidebar_controls():
@@ -99,6 +106,30 @@ def main():
     with col_train_left:
         if st.button("Train model", type="primary"):
             st.session_state["model_training_requested"] = True
+
+        if st.button("Compare algorithms"):
+            st.session_state["model_comparison_requested"] = True
+
+    if st.session_state.get("model_comparison_requested"):
+        with st.spinner("Training and evaluating all algorithms on the same dataset..."):
+            comparison_df = _compare_all_models_cached(X, y, SUPPORTED_MODELS)
+            st.session_state["comparison_df"] = comparison_df
+
+        best = st.session_state["comparison_df"].iloc[0]
+        st.success(f"Best model: {best['model']} (R²={best['r2']:.3f}, RMSE={best['rmse']:.3f})")
+        st.markdown("**Algorithm performance comparison (same train/test split)**")
+        st.dataframe(st.session_state["comparison_df"], use_container_width=True)
+
+        fig = px.bar(
+            st.session_state["comparison_df"],
+            x="model",
+            y="r2",
+            title="R² by algorithm (higher is better)",
+            text="r2",
+        )
+        fig.update_traces(texttemplate="%{text:.3f}", textposition="outside")
+        fig.update_layout(yaxis_title="R²", xaxis_title="Algorithm", uniformtext_minsize=10, uniformtext_mode="hide")
+        st.plotly_chart(fig, use_container_width=True)
 
     if st.session_state.get("model_training_requested"):
         with st.spinner(f"Training {controls['model_name']} model..."):
