@@ -45,12 +45,19 @@ dataset/
   location_dataset_1000.csv
   equipment_dataset_1000.csv
   construction_schedule_dataset_1000.csv
-  construction_material_carbon_dataset_india (1) (1).csv
 ```
 
 Notes:
 - The repository ignores `dataset/` and `*.csv` by default (to avoid GitHub file-size limits). Copy these files manually onto the machine after cloning.
 - Paths are configured in `app/config.py` under `class Paths`.
+
+### Generate synthetic datasets (recommended for new machines)
+
+If you don't have the CSVs yet, you can generate a fully working synthetic benchmark (1000 rows per file) by running:
+
+```powershell
+.\.venv\Scripts\python.exe app/data/generate_synthetic_dataset.py
+```
 
 ## Run the app
 

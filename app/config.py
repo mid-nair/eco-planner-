@@ -13,7 +13,6 @@ class Paths:
     locations = dataset_dir / "location_dataset_1000.csv"
     equipment = dataset_dir / "equipment_dataset_1000.csv"
     schedule = dataset_dir / "construction_schedule_dataset_1000.csv"
-    material_carbon = dataset_dir / "construction_material_carbon_dataset_india (1) (1).csv"
 
 
 class MLConfig:

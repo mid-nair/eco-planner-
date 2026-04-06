@@ -22,7 +22,6 @@ def load_all_datasets() -> Dict[str, pd.DataFrame]:
         "locations": _read_csv(Paths.locations),
         "equipment": _read_csv(Paths.equipment),
         "schedule": _read_csv(Paths.schedule),
-        "material_carbon": _read_csv(Paths.material_carbon),
     }
 
 

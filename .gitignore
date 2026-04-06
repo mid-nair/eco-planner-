@@ -1,3 +1,8 @@
+# data
+dataset/
+*.csv
+
+
 .venv/
 venv/
 __pycache__/

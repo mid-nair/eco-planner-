@@ -43,7 +43,9 @@ def build_model(model_name: str, random_state: int = 42) -> Any:
             hidden_layer_sizes=(128, 64),
             activation="relu",
             solver="adam",
-            max_iter=500,
+            max_iter=2500,
+            tol=1e-3,
+            early_stopping=False,
             random_state=random_state,
         )
     if name == "arima-bpnn":
@@ -53,7 +55,9 @@ def build_model(model_name: str, random_state: int = 42) -> Any:
             hidden_layer_sizes=(256, 128, 64),
             activation="relu",
             solver="adam",
-            max_iter=600,
+            max_iter=3000,
+            tol=1e-3,
+            early_stopping=False,
             random_state=random_state,
         )
     if name == "svr":

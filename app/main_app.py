@@ -3,8 +3,12 @@ from __future__ import annotations
 import io
 import os
 import sys
+import warnings
 
 import pandas as pd
+from sklearn.exceptions import ConvergenceWarning
+
+warnings.filterwarnings("ignore", category=ConvergenceWarning)
 import streamlit as st
 import plotly.express as px
 
@@ -54,7 +58,7 @@ def _load_and_prepare():
 @st.cache_data(show_spinner=False)
 def _compare_all_models_cached(X: pd.DataFrame, y: pd.Series, model_names: list[str]) -> pd.DataFrame:
     # Cache results so users can re-open without retraining everything
-    return compare_models(X, y, model_names=model_names)
+    return compare_models(X, y, model_names=model_names, n_repeats=5)
 
 
 def sidebar_controls():
@@ -111,25 +115,33 @@ def main():
             st.session_state["model_comparison_requested"] = True
 
     if st.session_state.get("model_comparison_requested"):
-        with st.spinner("Training and evaluating all algorithms on the same dataset..."):
+        with st.spinner("Training and evaluating all algorithms across repeated splits..."):
             comparison_df = _compare_all_models_cached(X, y, SUPPORTED_MODELS)
             st.session_state["comparison_df"] = comparison_df
 
         best = st.session_state["comparison_df"].iloc[0]
-        st.success(f"Best model: {best['model']} (R²={best['r2']:.3f}, RMSE={best['rmse']:.3f})")
-        st.markdown("**Algorithm performance comparison (same train/test split)**")
-        st.dataframe(st.session_state["comparison_df"], use_container_width=True)
+        st.success(
+            f"Best model: {best['model']} (Mean R²={best['r2_mean']:.3f} ± {best['r2_std']:.3f}, "
+            f"Mean RMSE={best['rmse_mean']:.3f})"
+        )
+        st.markdown("**Algorithm performance comparison (5 repeated train/test splits)**")
+        st.dataframe(st.session_state["comparison_df"], width="stretch")
 
         fig = px.bar(
             st.session_state["comparison_df"],
             x="model",
-            y="r2",
-            title="R² by algorithm (higher is better)",
-            text="r2",
+            y="r2_mean",
+            title="Mean R² by algorithm (higher is better)",
+            text="r2_mean",
         )
         fig.update_traces(texttemplate="%{text:.3f}", textposition="outside")
-        fig.update_layout(yaxis_title="R²", xaxis_title="Algorithm", uniformtext_minsize=10, uniformtext_mode="hide")
-        st.plotly_chart(fig, use_container_width=True)
+        fig.update_layout(
+            yaxis_title="Mean R²",
+            xaxis_title="Algorithm",
+            uniformtext_minsize=10,
+            uniformtext_mode="hide",
+        )
+        st.plotly_chart(fig, width="stretch")
 
     if st.session_state.get("model_training_requested"):
         with st.spinner(f"Training {controls['model_name']} model..."):
@@ -234,20 +246,20 @@ def main():
     ref_plan = ranked.iloc[0]
 
     with tab1:
-        st.plotly_chart(carbon_breakdown_chart(ref_plan), use_container_width=True)
+        st.plotly_chart(carbon_breakdown_chart(ref_plan), width="stretch")
     with tab2:
-        st.plotly_chart(cost_vs_carbon_chart(filtered), use_container_width=True)
+        st.plotly_chart(cost_vs_carbon_chart(filtered), width="stretch")
     with tab3:
-        st.plotly_chart(strength_vs_carbon_chart(filtered), use_container_width=True)
+        st.plotly_chart(strength_vs_carbon_chart(filtered), width="stretch")
     with tab4:
-        st.plotly_chart(pareto_front_chart(ranked), use_container_width=True)
+        st.plotly_chart(pareto_front_chart(ranked), width="stretch")
     with tab6:
-        st.plotly_chart(topsis_ranking_chart(ranked), use_container_width=True)
+        st.plotly_chart(topsis_ranking_chart(ranked), width="stretch")
     with tab7:
         original_co2 = float(predicted_plans["predicted_total_co2"].median())
         st.plotly_chart(
             carbon_reduction_chart(original_co2, ranked),
-            use_container_width=True,
+            width="stretch",
         )
 
     # SHAP explainability
@@ -256,7 +268,7 @@ def main():
             # Use the same engineered, scaled features used for prediction
             X_sample = X_pred.sample(min(200, len(X_pred)), random_state=0)
             feature_importance, _ = compute_shap_values(model, X_sample=X_sample)
-        st.plotly_chart(shap_importance_chart(feature_importance), use_container_width=True)
+        st.plotly_chart(shap_importance_chart(feature_importance), width="stretch")
 
     # Scenario comparison tool
     st.subheader("5. Scenario comparison tool")
@@ -280,7 +292,7 @@ def main():
                     "sustainability_score",
                 ]
             ],
-            use_container_width=True,
+            width="stretch",
         )
 
     # Downloadable report

@@ -42,31 +42,42 @@ def compare_models(
     X: pd.DataFrame,
     y: pd.Series,
     model_names: List[str],
+    n_repeats: int = 5,
 ) -> pd.DataFrame:
     """
-    Train/evaluate multiple models on the exact same split.
-    Returns a DataFrame sorted by best R² (descending).
+    Train/evaluate multiple models across repeated train/test splits.
+    Returns a DataFrame sorted by best mean R² (descending).
     """
-    X_train, X_test, y_train, y_test = train_test_split(
-        X, y, test_size=MLConfig.test_size, random_state=MLConfig.random_state
-    )
-
+    split_seeds = [MLConfig.random_state + (i * 7) for i in range(max(1, n_repeats))]
     rows = []
     for name in model_names:
-        model = build_model(name, random_state=MLConfig.random_state)
-        model.fit(X_train, y_train)
-        y_pred = model.predict(X_test)
+        r2_vals: List[float] = []
+        mae_vals: List[float] = []
+        rmse_vals: List[float] = []
+
+        for seed in split_seeds:
+            X_train, X_test, y_train, y_test = train_test_split(
+                X, y, test_size=MLConfig.test_size, random_state=seed
+            )
+            model = build_model(name, random_state=MLConfig.random_state)
+            model.fit(X_train, y_train)
+            y_pred = model.predict(X_test)
+
+            r2_vals.append(float(r2_score(y_test, y_pred)))
+            mae_vals.append(float(mean_absolute_error(y_test, y_pred)))
+            rmse_vals.append(float(np.sqrt(mean_squared_error(y_test, y_pred))))
 
         rows.append(
             {
                 "model": name,
-                "r2": float(r2_score(y_test, y_pred)),
-                "mae": float(mean_absolute_error(y_test, y_pred)),
-                "rmse": float(np.sqrt(mean_squared_error(y_test, y_pred))),
+                "r2_mean": float(np.mean(r2_vals)),
+                "r2_std": float(np.std(r2_vals)),
+                "mae_mean": float(np.mean(mae_vals)),
+                "rmse_mean": float(np.mean(rmse_vals)),
             }
         )
 
-    df = pd.DataFrame(rows).sort_values("r2", ascending=False).reset_index(drop=True)
+    df = pd.DataFrame(rows).sort_values("r2_mean", ascending=False).reset_index(drop=True)
     df["rank"] = np.arange(1, len(df) + 1)
     return df
 
